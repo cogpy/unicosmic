@@ -1,0 +1,83 @@
+3D Concept of the Marko Rodin control
+                circle
+            Dewayne Broussard
+             November, 2009
+              8
+                      9
+                              1
+                                                  3                3 FNG: {1,4,7}=3
+                                                                   • Know symbol for Heaven
+      7                           2
+                                                                   • Symbol for Father in the
+          6                       3
+                                                                     Iching is ☰           (3 lines)
+
+                  5       4                               5        6 FNG: {2,8,5}=6
+                  Rodin’s
+                                      8                            • Know symbol for Earth
+          Control Circle
+                                                                   • Symbol for Mother in the Iching
+                                                                   is ☷       (6 lines)
+                                                                     *FNG: Family Number Group
+
+                                                  9   2              ☰ =force, ☷ =field
+                                              7
+  a
+                                                                     It has been said that a
+                                                               1     merkaba rotates in opposite
+                                                                     directions with the “body”
+                                          4                          fixed. Heaven (3) rotates
+                                                                     clockwise while Earth (6)
+  b                           c                                      rotates counterclockwise. This
+                                                                     leads to an interesting result:
+A 3D wave pattern is created by the counter                          {2,5,8} rotates into
+rotation of the icosahedrons triangles. From an                      {1,7,4)={3,3,3}
+axis view diagram A represents a stationary       6
+position. Diagram B 30° rotation and diagram C                       {2,5,8} then rotates into
+a 60° rotation.                                                      {7,4,1}={9,9,9}
+                                                                     {2,5,8} finally rotates into
+                                                                     {4,1,7}={6,6,6}
+
+
+
+                                                          Points of reference!!!
+                                                                                    3
+When we apply the VBM system to a three dimensional structure the
+Merkaba is generated. We can notice that the sequence {1,4,7} rotates
+in a clockwise direction as seen in the diagram. Likewise the {2,5,8}
+rotates in a counterclockwise direction. This is based on reference plane
+and following the numbers in increasing order.                                              5
+                                                                            8
+If we apply these sequences to the I Ching (Book of Change) we can get
+the following system:
+        1                                     2
+3       4   Father; force (CW         6      5 Mother; field; (CCW                  9   2
+        7                                    8
+            rotation)                           rotation)
+The numbers 3 and 6 were arbitrarily assigned to the symbols, but seem
+appropriate given the number of segment represented.
+                                                                                                1
+
+Now we apply this system to           If we change the rotation of one of       4
+the remaining child trigrams:         the parents then the child trigrams
+                                      become:
+             9
+        1                  2                      1                2
+5       5           4      4            3         4   CW   6       8   CW           6
+        8                  7                      7                5
+
+             9                                         9
+        2                  1                      1                2
+5       4           4      5        3s 5          8         4      4   3d
+        8                  7                      5                7
+             9                                         9
+        2                  1                      2                1
+5       5           4      4        2s 2          4         7      8   2d
+        7                  8                      5                7
+                                                       9
+                                                  2                1
+                                    1s 8          8         1      4
+                                                  7                5   1d
+                                    s = son
+                                    d = daughter
+

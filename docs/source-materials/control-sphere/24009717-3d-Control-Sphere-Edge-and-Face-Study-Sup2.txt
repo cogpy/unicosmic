@@ -1,0 +1,168 @@
+3D Control Sphere Edge and Face Investigation 2nd Supplement
+Dewayne Broussard, December 2009                                                                                              9
+                                                                                                                      8               1
+
+This study was inspired by the comments of jtstatic on the David Icke forum.
+                                                                                                              7                           2
+http://www.davidicke.com/forum/showthread.php?t=61370&page=48
+                                                                                                                  6                       3
+
+                                                                                                                          5       4
+ This is supplement continues the exploration of the Control Sphere having                                        Rodin’s Control
+ the poles exchange of the poles in order to achieve a polarized star                                                 Circle
+ tetrahedron.
+ Treatment of the mid-plane edges and facet value construction is explored.
+                                                                                         Pole
+                              3                                                 6
+
+                                                                                                 Pole facet
+                                                       End plane
+
+                                           5                                                 5
+           8                                                 8
+
+
+                               9                                                9                         Mid-planes
+                                       2                                                 2
+                     7                                                 7
+
+
+                                               1                                                   1
+                 4                                                 4                                     Vertex
+
+                                                         Mid-plane
+                              6                              edge               3
+
+
+                         The Control                                       The Control
+                           Sphere                                            Sphere
+                          (original)                                       (polarized)
+3D Control Sphere Edge and Face Investigation 2nd Supplement
+   X=8x8           8 x 8
+                                5                              X = 13 x 13 4 x 4
+                                                                                            5
+   X = 11 x 11 2 x 2                                          X=7x7           7 x 7
+   X=5x5           5 x 5                                      X = 10 x 10 1 x 1
+                            7       4         3
+                                                           7   7                            3
+   1                                                                                                                        1
+                       6                3                                  8       3                6        8
+                   6                          6                        2                    2                      5
+                        4                                                                   5
+       3                 1 3 7 1                                   6                                                    6
+                   3                           6                           6                6               3
+                                                                                        8       2
+                           4                                                      5                 8
+           7                                           4
+                           7                                               3                                 3
+               1       6       3                   1                               3                6
+                           6
+   2                                                       8 8                                                              2
+                                               3                                        2       5           6
+                                            Figure 1
+                                                                                                        Figure 2
+                                            Upward view
+                                                                                                        Downward view
+
+                                4                                                           4
+  Additional observations on the “polarized” control sphere:
+  • Sum of the mid-plane edges and pole to mid-plane and equal to one of the opposite pole’s
+  family    number group (FNG). See legends.
+  • Edges around the pole equal to the mid-plane vertex. See double orange arrows.
+3D Control Sphere Edge and Face Investigation 2nd Supplement
+                               5                                                       5
+
+                                       Edges equal to the sum of the opposite
+                                     vertices. Faces equal to the product of the
+                           6       3                   edges.
+                                          3
+                                                      7       7                        5
+ 1                                                                                                             1
+                     6               3                                    3   3                6   6
+                 4                       4                            6                2               3
+                       4                                                               9
+     3                 9 3 9 1                                    6                                        6
+                 3                        6                               6            6           3
+                                                                                   9       9
+                         9                                                    5                8
+         3                                        6
+                         7                                                5                        5
+             6       6       3                3                               3                6
+                         4
+ 2                                                    8      8                                                 2
+                                          3                                        3       6       6
+
+
+
+
+                               4                                                       4
+  In this iteration:
+  • Pole facets become 9
+  • End planes of 6 and 3 become 4 and 5 respectively.
+  • Mid-plane facets become 3 or 6 with the common edge same value.
+3D Control Sphere Edge and Face Investigation 2nd Supplement
+                                 Edges equal to the product of the opposite
+                                 vertices. Faces equal to the product of the
+                               5                   edges.                                   5
+                                           +n   Sum of all edges
+
+                                                xn   Product of all edges
+
+
+                                                                                        8       2       +2 x9
+   7                           3                                                                                     7
+                                                          1   1
+                8      8               5    8                                       5               8
+            2                  3                5                               3                       3
+                               9                                                    3
+       +9                                            +3       +2 x9                   9 3 9 3
+                2              6           2                                    2                        2
+                           9       9                 x9
+       x9              3               3                                                9
+                                                                        8                                        2
+                3                           3                                           3
+                       5               8                                    5       8       5                5
+                                                                                        3
+  8                                                       2   2                                                      8
+                           2       5       +6                                                           +2 x9
+                                           x9
+  In this iteration:
+  • Pole facets are 9          4                                                            4
+  • End planes are all 3
+  • Mid-plane facets become the 6FNG. Upper and lower planes are advanced/retarded by 1
+  facet.
+  • Strange pattern for edge nodes.
+3D Control Sphere Edge and Face Investigation 2nd Supplement
+                                 Edges equal to the product of the opposite
+                                  vertices. Faces equal to the sum of the
+                               5                  edges.                                    5
+                                           +n   Sum of all edges
+
+                                                xn   Product of all edges
+
+
+                                                                                        6       9       +2 x9
+   7                           4                                                                                     7
+                                                          1   1
+                4      8               5    7                                       5               8
+            7                  3                4                               5                       8
+                               6                                                    3
+       +9                                            +3       +2 x9                   9 3 9 3
+                2              6           2                                    2                        2
+                           6       6                 x9
+       x9              3               3                                                9
+                                                                        6                                        9
+                1                           7                                           3
+                       5               8                                    3       8       5                3
+                                                                                        2
+  8                                                       2   2                                                      8
+                           4       7       +6                                                           +2 x9
+                                           x9
+
+  In this iteration:
+                               4                                                            4
+  • Pole facets are 6 and 9.
+  • End planes are of the opposite FNG that that of the pole.
+  • Lower mid-plane facets become the 3FNG lacking the 1. Upper mid-plane facets become
+  {3,6,9}.
+

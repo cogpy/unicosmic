@@ -1,0 +1,14 @@
+1) The first 24 numbers are part of a repeating sequence, and when they are placed around the
+circle, a beautiful symmetry appears, that relates directly with the 60degree segments in a circle
+(360deg/6). This might also be related to the 24 rays of the prime number cross!
+2) Notice how all the opposite numbers always show up together: 1-8, 2-7, 4-5, 3-6, 9-9. This pattern
+is connected to the Vedic Square because the columns in the vedic square have the same 1-8, 2-7,
+4-5, 3-6, and 9-9 patterns. So thru digital roots, there is a connection between Phi and the ancient
+Vedic square.
+3) The digital root of the doubling sequence gives the repeating numbers 1-2-4-8-7-5. It turns out that
+1/7 has the same repeating sequence of numbers except in a slightly inverted order: 1-4-2-8-5-7
+Note that 22/7 is often considered the most natural approximation for pi. And within those numbers
+we see the same 1-8, 2-7, and 4-5 pattern - without the 3,6,9 (which form the 'frame' in the diagram)
+Digital roots and vortex maths are very exciting...
+
+

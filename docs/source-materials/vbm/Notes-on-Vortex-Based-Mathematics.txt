@@ -1,0 +1,2321 @@
+        Notes On
+Vortex Based Mathematics
+                                          Contents
+
+Introduction
+
+Vortex Based Mathematics – A Summary
+      Number Polarity
+      Doubling Circuits, Reciprocals & Shearing
+      Multiplication Table ("Multiples")
+      Using Controls
+      Circulation of Numbers & The Hourglass
+      Family Number Groups & The Binary Triplet
+      Emanations, Number Activation & Phasing
+      Polar Number Pairs & The Coordinate System
+      Nested Vortices, Negative Backdraft Counterspace & Spires
+      Dividing By 7 & The Nexus Keys
+      Scaling, Alternate Layouts & Other Number Bases
+      Significance
+      Technical Applications
+      Resources
+
+Extension – Uncovering Familiar Mathematical Patterns
+      Right Triangles
+      The Golden Rectangle & The Importance of Angles
+      Pascal's Triangle & The Fibonacci Sequence
+      Sine Waves
+
+Extension – Uncovering Harmonics
+      Moving From Number To Frequency
+      Moving From Frequency To Number
+      The Lambdoma Matrix
+      Pythagorean Color Harmonics
+
+Extension – Making A 3D Grid
+
+Extension – The Flux Thruster Atom Pulsar & Its Geometry
+      General Background
+      Getting Started
+      Synchronized Electricity
+
+Extension – "Advanced" Mathematics: Its Relationships To Energy
+      VBM As A Wholistic Framework
+      "Imaginary" (or "Complex") Numbers & Their Stereographic Projections
+      Hopf Fibrations
+      Fractals & "Chaos" Theory
+      Attractors
+      The Penrose Twistor
+      Matrix Algebra
+      Avenues For Further Exploration
+
+Addendum – Reorientation of Perspective
+
+Document Version – 2.0
+Important Note To The Reader:
+
+What can one share but their opinions? Invariably, much of what follows will be colored by my
+interpretations. It will also be highly speculative in nature as I am still learning much, so please
+forgive me of any errors. Many of these patterns were pointed out to me by others for which I am
+very grateful. I humbly offer my opinions on these matters for your consideration, and welcome any
+feedback in response. Let us work together to take it further and apply it towards constructive
+purposes (i.e.: that which is mutually beneficial towards ALL simultaneously).
+
+
+
+
+Photo Credits:
+
+The beautiful picture on the cover is by BJ White. (Careful, the link leads to the original file which
+is 6 MB large animation)!
+
+While many of the diagrams I have made or re-made from the images in Rodin's books and articles
+related to his work (unless otherwise noted), there are probably a few that do not have proper
+credits. Please let me know and I will update it or remove it.
+                                                   Marko Rodin
+
+         Marko Rodin is the creator of a system called "Vortex-Based Mathematics". The inspiration
+for it came about through a spiritual experience he had when he was 15, wherein he asked the
+universe "What is the secret of universal intelligence?". The answer he recieved was that it has to do
+with a person's name and the language in which it is spoken. He figured that the most important
+names would be those of God, so he searched many sacred texts for any references to the "names of
+God". He eventually came across the scripture of the Baha'i faith and within the original Persian
+texts1 he looked for number patterns using "Abjad numerals" (i.e.: when each Arabic letter is used to
+represent a number – see diagram below).
+
+
+
+
+                                           Table showing letter values
+                                               (From Wikipedia)
+
+(As an aside, I have a feeling that perhaps the work of Bharati Krsna Tirthaji Maharaja, the creator
+of Vedic Mathematics, may have come about in a similar fashion except with the "Aryabhata
+numerals" of Sanskrit and using Vedic literature instead...however, I could be wrong. Either way,
+this too I feel is an important work that follows similar principles, although it may not be as
+explicitly stated sometimes).
+
+
+
+
+1 There are several works that he continually makes references to: The Star Tablet, The Tablet of the Virgin, The
+  Tablet of Wisdom, The Hidden Words, The Seven Valleys & The Four Valleys, and The Book of Certitude. See:
+  http://bahai-library.com/compilations/bahai.scriptures/
+                                   Vortex Based Mathematics – A Summary
+
+Here is a general outline of Vortex-Based Mathematics as far as I understand it. This is system has its own
+particular vocabulary (sometimes calling something by more than one name, or varying the name to describe
+it more thoroughly). While the names of things within this work may sometimes seem exaggerative or even
+unnecessary, they are not arbitrary. I will try to define terms as best I can, and give any alternate names
+wherever possible. I have included many diagrams to make it easy to follow. The topics build upon one
+another, so please follow it in order.
+
+                                                          The diagram to the left is The Mathematical
+                                                          Fingerprint of God (also sometimes referred to as
+                                                          The Symbol of Enlightenment or The Petroglyph-
+                                                          Equation for the Most Great Name of God).
+
+                                                          This figure is the crux of much of the work, and
+                                                          the means by which the number patterns necessary
+                                                          to be able to apply it are usually introduced. Each
+                                                          pattern has physical correspondences that I will
+                                                          attempt to elucidate after I describe them all.
+
+                                                          All the math patterns are shown by "casting out
+                                                          nines" – i.e.: reducing every multiple digit
+                                                          numbers into a single digit through addition (also
+                                                          known as Modular-9 Arithmetic, Decimal Parity
+                                                          or Digital Root; others might even use the terms
+                                                          Indigs or Fadic Sums for this type of action).
+
+                                                          Nearly everything will be referenced against the
+                                                          number 9.
+First, let us focus upon the infinity-like shape inside
+the circle.
+
+It begins in the middle and moves towards one, then
+two, and so on, following the line clockwise and then
+counterclockwise indefinitely, like two vortices
+connected at their apex. The pathway never breaks.
+
+This is called The Doubling Circuit because:
+*1 doubled is 2,
+*2 doubled is 4,
+*4 doubled is 8,
+*8 doubled is 16 (1 + 6 = 7),
+*16 doubled is 32 (3 + 2 = 5),
+and so on, ad infinitum.
+
+No matter how high you go (double digits, triple digits, etc.) it will always reduce back to its corresponding
+number on The Doubling Circuit.
+
+Because they are merely powers of 2 (e.g.: 1, 2, 4, 8, 16, 32, 64, 128, 256, etc.), one could add any
+combination of numbers from The Doubling Circuit together to form any other number of the Base-10
+system. For example: 4 + 8 + 8 = 20, 1 + 4 + 8 + 8 = 21, 2 + 4 + 8 + 8 = 22, 1 + 2 + 4 + 8 + 8 = 23, etc.
+                                                     You can also go through the circuit backwards to halve
+                                                     the numbers and get the powers of 10.
+
+                                                     Example of Halving (beginning at 1):
+                                                     *1 halved is 0.5
+                                                     *0.5 halved is 0.25 (2 + 5 = 7),
+                                                     *0.25 halved is 0.125 (1 + 2 + 5 = 8),
+                                                     *0.125 halved is 0.0625 (6 + 2 + 5 = 13 & 1 +3 = 4),
+                                                     etc.
+
+                                                     Example of Powers of 10 (also beginning at 1):
+                                                     *1 X 1 = 1,
+                                                     *1 X 10 = 10
+                                                     (located where 0.5 is because 5 X 2 = 10),
+                                                     *10 X 10 = 100
+                                                     (located where 0.25 is because 25 X 4 = 100),
+                                                     *100 X 10 = 1,000
+                                                     (located where 0.125 is because 125 X 8 = 1, 000),
+                                                     etc.
+
+                                                     The powers of 10 can be thought of as being "sorted out"
+                                                     according to the same pattern, as shown in the diagram to
+                                                     the left.
+
+                                                     For example, if you were to take it out one step further,
+                                                     all powers beginning with 1 are still on the 1's line, all of
+                                                     those beginning with 100 are still on the 100's line, etc.:
+
+
+
+
+Now, let's look at the red figure made up of 3, 6,
+and 9 that looks like a triangle without a base.
+
+The 9 is self-similar. Any multiple of 9 reduces
+back to 9. For example:
+*9 X 1 = 9,
+*9 X 2 = 18 (1 + 8 = 9),
+*9 X 3 = 27 (2 + 7 = 9),
+*9 X 4 = 36 (3 + 6 = 9),
+etc.
+
+
+
+
+This figure also has a doubling/halving pattern, but instead of cycling around like the doubling circuit, it sits
+there and pulsates, oscillating back and forth between 3 and 6 (with 9 as the axis between them):
+
+*3 doubled is 6,
+*6 doubled is 12 (1 + 2 =3),
+*12 doubled is 24 (2 + 4 = 6),
+*24 doubled is 48 (4 + 8 = 12 & 1 + 2 = 3),
+etc.
+*6 halved is 3,
+*3 halved is 1.5 (1 + 5 = 6),
+*1.5 halved is 0.75 (7 + 5 = 12 & 1 + 2 = 3),
+*0.75 halved is 0.375 (3 + 7 + 5 = 15 & 1 + 5 = 6),
+etc.
+
+The oscillation of 3 and 6 can be shown in two other ways as well. One way is that all the lines of the symbol
+that shift towards the 3 add up to 3, while all those that shift towards the 6 add up to 6:
+
+
+
+
+8 + 7 = 15 (1 + 5 = 6),                                 1 + 2 = 3,
+9 + 6 = 15 (1 + 5 = 6),                                 9 +3 =12 (1 + 2 = 3),
+1 + 5 = 6,                                              8 + 4 = 12 (1 + 2 = 3),
+2 + 4 = 6,                                              7 + 5 = 12 (1 + 2 = 3),
+3+3=6                                                   6 + 6 = 12 (1 + 2 = 3)
+
+Another way is by adding up adjacent numers within the doubling circuit:
+
+
+
+
+1 + 2 = 3,                                              4 + 2 = 6,
+5 + 4 = 9,                                              8 + 1 = 9,
+8 + 7 = 15 (1 + 5 = 6)                                  7 + 5 = 12 (1 + 2 = 3)
+
+The pulsation of the 3 and 6 (with an axis of 9) makes a sequence of 3, 9, 6, 6, 9, 3, 3, 9, 6, etc.
+The 3 is never next to the 6, always being separated by 9. They repel each other like the two ends of a
+magnet.
+We are going to take this sequence (6, 9, 3, 3, 9, 6) and sandwhich it between two copies of the sequence that
+makes up the doubling circuit (1, 2, 4, 8, 7, 5), one going forwards ("positive" or doubling) and the other
+backwards ("negative" or halving), like this:
+
+
+
+
+The Mathematical Fingerprint of God is not really a circle, but a simplified represenation of a sphere or tube
+torus1, and this grid will help you to see it in much more detail because it is the "map" or "skin" of this torus.
+
+By tiling it and then linking it up end-to-end, you can make toroidal rings of various sizes. The smallest one
+you can make (while still keeping all the necessary features intact for it to be a "true" torus – i.e.: an accurate
+reflection of The Mathematical Fingerprint of God) is a grid of 9 X 9. There are none smaller than this.
+
+The numbers are laid out in such a way that you never have more of one than any other. Once you know
+where just one number is on the grid, you know where every number is because they are all connected.
+
+
+
+
+                        9 X 9 Grid                                            ABHA (1251) Torus2
+
+Let us now explore some of the patterns within the torus. Although it may seem complex, it is simple so long
+as one keeps in mind the dynamic nature of the patterns, and uses The Mathematical Fingerprint of God as
+their guide. If something does not make sense, always reference it against the simple patterns contained with
+The Mathematical Fingerprint of God to find clarity.
+
+1 A sphere can be thought of as a type of torus.
+2 This is called the ABHA Torus because ABHA, the "most great name of God" in Baha'i scripture, was the inspiration
+  behind it. Its pronunciation produces a compression ("AB") and decompression ("HA") in the breath when spoken.
+  1251 is the value of "ABHA" in Abjad numerals (A = 1, B = 2, H=5). Notice that it adds up to 9. He found this
+  significant because 9 is considered a "holy number" in the Baha'i faith, with their icon even being a 9-pointed star.
+  He reasoned that it must be like a mirror because it begins and ends in 1, so he placed a decimal point in the middle
+  to form 12.51. If you add up each side of the decimal you get 3 and 6. It also gives the first 2 reciprocal number
+  pairs, 1-1 and 2-5 (more about these number pairs below). He then drew a circle, dividing it into 9 equal parts (or 40
+  degree increments as 360 / 9 = 40), and labeled each segment with the numbers 1-9. From this, all the other patterns
+  that make up The Mathematical Fingerprint of God started to unfold.
+Number Polarity:
+
+The numbers on the surface of the torus alternate
+between "positive" and "negative", therefore there
+are really 18 numbers. We will represent this within
+our grid by white and black squares respectively.
+
+Also note that the number grid itself is outlined in
+red squares of 9. Although it is a mouth-full, this
+view of the surface of the torus is sometimes called
+The Diamond Crystal Grain Lattice Structure.
+
+Positive and negative polarities show up in other ways as well, and will be mentioned when applicable.
+
+Doubling Circuits, Reciprocals & Shearing:
+
+It is important to keep in mind that when we refer to the toroid, the term "Doubling Circuit" includes both of
+the positive (1-2-4-8-7-5) and negative (5-7-8-4-2-1) sequences that we sandwiched around the 6-9-3-3-9-6
+(also called The Gap Space or Equipotential Major Groove) to form the grid that makes up the surface of it.
+
+These three lines of numbers wrap around the top of the torus, go in through the middle, curve around the
+side at a slight inclinaton to make an s-curve, and then come up around the other end from the bottom to
+meet themselves head-on, making a yin-yang-like shape. (See diagrams below).
+
+
+
+
+                Top View (Yin-Yang)                                     Side View (S-Curve)
+                    The Doubling Circuit is marked in red and The Gap Space is in blue.
+
+There is a general principle that multiplying by any number is the same as dividing by its reciprocal on The
+Doubling Circuit. This means that particular numbers are always paired:
+
+1 and 1,
+2 and 5,
+4 and 7,
+8 and 8.
+
+Examples:
+7 X 2 = 14 (1 + 4 = 5)                                  7/2 = 3.5 (3 + 5 = 8)
+7/0.5 = 14 (1 + 4 = 5)                                  7 X 0.5 = 3.5 (3 + 5 = 8)
+This is how reciprocals show up in The Mathematical Fingerprint of God:
+
+              Step 1                                Step 2                             Step 3
+
+
+
+
+The first reciprocal pair is 1 and 1. Moving one away in each           Moving one away from both 4 and
+1 X 1 = 1.                            direction from 5 and 2 gives us   7 we get the final reciprocal pair 8
+                                      reciprocals 7 and 4.              and 8.
+Moving one away in each
+direction gives us reciprocals 5      7 X 4 = 28 (2 + 8 = 10            8 X 8 = 64 (6 + 4 = 10
+and 2.                                & 1 + 0 = 1).                     & 1 + 0 = 1).
+
+5 X 2 = 10 (1 + 0 = 1).
+
+
+
+
+All Doubling Circuits must meet end-to-end as
+continuous or "unbroken" rings. You can use the
+reciprocals to check this.
+
+Adjacent Doubling Circuits (one positive and one
+negative) will move against one another to form
+reciprocals. This is called Shearing.
+
+
+
+
+The reciprocals can be used to generate Base-10 as well. For example:
+             Exponent                              Value                  Sum (generates numbers of The
+                                                                                Doubling Circuit)
+                  etc.
+                  0.5^3                             0.125                                8
+                  0.5^2                              0.25                                7
+                  0.5^1                              0.5                                 5
+                 1                                    1                                  1
+                  2^1                                 2                                  2
+                  2^2                                 4                                  4
+                  2^3                                 8                                  8
+                  etc.
+Multiplication Table ("Multiples"):
+
+Take the mutiplication series (or "multiples") of each number, and then reduce the products to a single digit
+by "casting out nines".
+
+
+
+
+             Regular Multiplication Table                     Multiplication Table with 9's "casted out"
+
+Here is a table showing just 1-9. Notice the symmetry:
+
+
+
+
+                               9 X 9 Multiplication Table with 9's "casted out"
+                                   (planes of symmetry are marked in red)
+
+Take the series of numbers for each digit and place it behind its corresponding number on The Mathematical
+Fingerprint of God, like this:
+Notice that the series of each number is mirrored from the one across from it. For example:
+*2 is "positive", going up in units of two (2, 4, 6, 8, etc.)
+*7 is "negative", going down in units of two (7, 5, 3, 1, etc.)
+If you add up the digits in both sequences they all add up to 9.
+
+Generally speaking, everything to the left of 9 is "negative", while everything to the right of 9 is "positive"
+when looking at it in this way. 9, being the axis, polarizes all the other numbers because it is also like a
+mirror. Therefore, these groups of numbers (1-8, 2-7, and 4-5) are called Polar Number Pairs.
+
+Also, you might notice that each Polar Number Pair is made up of both an even and odd number:
+*1 is odd and 8 is even
+*2 is even and 7 is odd
+*3 is odd and 6 is even
+*4 is even and 5 is odd
+
+Using Controls:
+
+One can even assign different numbers to The Doubling Circuit and it will still function with all the proper
+patterns, with one exception. You cannot not reverse the numbers within it because the multiplication tables
+will no longer work (even though all the other patterns will still hold true)! Here are some examples:
+
+                                                     Correct
+
+
+
+
+               Control (Multiples of 2)                                 Control (Multiples of 4)
+                                                    Incorrect
+
+
+
+
+             Backwards Doubling Circuit!                              Backwards Doubling Circuit!
+
+This is not to be confused with a reversing in the direction of travel through the circuit as in the case of
+halving, but an actual reversal of the numbers within it!
+
+Circulation of Numbers & The Hourglass:
+
+
+
+
+   The multiplication tables make vortices that circulate the numbers around inside of The Mathematical
+ Fingerprint of God. For example, beginning at the top with numbers 5 and 4, we can follow each of them
+through the multiplication tables of the other numbers until we get to the bottom. To get to the next instance
+of 5 and 4, we have to cross the middle to get to the other side. Therefore, numbers turn around in the center
+point where the line of The Doubling Circuit seems to cross itself; this point is sometimes referred to as The
+               Primal Point of Unity or The Decimal Point Singularity, amongst other names.
+
+Similiarly, each pole of the toroid has a rotation as well:
+               Northern Hemisphere                                      Southern Hemisphere
+                    (CCW – 3)                                                  (CW – 6)
+            *Rotation shown in magenta.                                *Rotation shown in cyan.
+  This polar view of the torus with a center that looks pinched is sometimes referred to as The Sunflower
+ Hologram, because of its similarity to the head of a sunflower, and the fact that every part of it contains the
+                                    whole, just like a holographic image.
+
+The two vorticies that make up the poles meet in the middle of the torus to form a shape called The
+Hourglass with The Primal Point of Unity in the very center of it:
+
+
+
+
+          Cross-section of torus showing The Hourglass with number grids partially shown in red.
+
+Thus the entire toroid acts as a sort of pump, drawing numbers in at the top and ejecting them out of the
+bottom to move along the surface cyclically in a manner similar to the circulation of numbers inside The
+Mathematical Fingerprint of God:
+                             Side-view of torus emphasizing vortex-like motion.
+
+Family Number Groups & The Binary Triplet:
+
+There are other groups of numbers that are related within The Mathematical Fingerprint of God that are
+hinted at by the interaction of the 3-6-9 and the 1-2-4-8-7-5 of The Doubling Circuit. For example, if we add
+3 to 1 we get 4, 3 added to 4 makes 7, and so on ad infinitum. This is Forward Motion. By using 6 instead
+we get Backward Motion (e.g.: 1 + 6 = 7, 7 + 6 = 13 & 1 + 3 = 4, etc.).
+
+
+
+
+     Family Number Group 1                Family Number Group 2                Family Number Group 3
+             (1-4-7)                              (2-5-8)                              (3-6-9)
+
+Forward Motion:                      Forward Motion:                     Forward Motion:
+1 + 3 = 4,                           2 + 3 = 5,                          3 + 3 = 6,
+4 + 3 = 7,                           5 + 3 = 8,                          6 + 3 = 9,
+7 + 3 = 10 (1 + 0 = 1),              8 + 3 = 11 (1 + 1 = 2),             9 + 3 = 12 (1 + 2 = 3),
+etc.                                 etc.                                etc.
+Backward Motion:                     Backward Motion:                      Backward Motion:
+1 + 6 = 7,                           2 + 6 = 8,                            3 + 6 = 9,
+7 + 6 = 13 (1 + 3 = 4),              8 + 6 = 14 (1 + 4 = 5),               9 + 6 = 15 (1 + 5 = 6),
+13 + 6 = 19 (1 + 0 = 1),             14 + 6 = 20 (2 + 0 = 2),              15 + 6 = 21 (2 + 1 = 3),
+etc.                                 etc.                                  etc.
+
+There is also oscillation between positive and negative numbers between these three groups.
+
+While the 3 and 6 are positive, the 9 is negative and vice versa. Similarly, while numbers of Family Number
+Group 1 are positive, the numbers of Family Number Group 2 are negative and vice versa. Because of this
+feature, if you were to follow The Doubling Circuit, you would oscillate between positive and negative
+numbers. This is called a Binary Triplet. (See diagram below).
+
+
+
+
+                                                         The Family Number Groups are considered the
+                                                         "triplets", while the continual oscillation between
+                                                         positive and negative numbers is a "binary flip-flop",
+                                                         hence Binary Triplet.
+
+
+
+
+Emanations, Number Activation & Phasing:
+
+You might have noticed in the very first diagram of
+The Mathematical Fingerprint of God that there are
+little arrows coming out of The Primal Point of
+Unity (see image to right). These are called
+Emanations and effect the numbers on the surface of
+the torus (Number Activation) in a particular order
+(called a Phasing, or less frequently, a Trinary Dwell
+Setting).
+        Here, the torus is open in the middle to show The Emanations radiating outward from center.
+
+    The Emanations (black arrows) come out in thirds in all directions; this is called The Dandelion Puff
+   Principle (because the rays look like a dandelion puff). They activate only the positive numbers of one
+  Family Number Group (designated by red circles) at a time, so only 1/6th of the numbers on the torus are
+                                              activated at once.
+
+                               This Phasing occurs in 4 cycles indefinitely:
+
+                         Cycle 01 – Positive numbers of Family Number Group 1,
+                         Cycle 02 – Positive numbers of Family Number Group 2,
+                         Cycle 03 – Positive numbers of Family Number Group 3,
+                                      Cycle 04 – An interval of rest.
+
+Polar Number Pairs & The Coordinate System:
+
+The 3 Polar Number Pairs (of 1-8, 2-7, and 4-5) within The Doubling Circuit were mentioned briefly in
+relation to the multiplication tables. Now we will apply them in a different way.
+
+
+
+
+                                                      If we look at the grid we will notice that each
+                                                      number of every red square is straight across from its
+                                                      pair mate with 9 as the axis between them.
+It turns out that these three pairs of numbers are the
+axes of the coordinate system that forms the toroid
+itself. It is somewhat akin to a spherical coordinate
+system when shown in this view. The assignment of
+axes on this particular torus is as follows:
+
+
+1-8 Polar Pair = Y-Axis (the "vertical")
+4-5 Polar Pair = X-Axis (the "horizontal")
+2-7 Polar Pair = Z-Axis (synonymous with The
+Emanations from The Primal Point of Unity – only
+one is shown here).
+
+
+
+
+   Here the Y-Axis (made by Polar Pair 1-8) is shown in gold, and the X-Axis (made by Polar Pair 4-5) is
+                                              shown in green.
+
+ Notice that if we take 9 as the center, going up is multiples of 1, going down is multiples of 8, going left is
+                               multiples of 4, and going right is multiples of 5.
+
+This can even account for how number lines are used in a regular Cartesian coordinate system because each
+  Polar Number Pair is made up of a positive and negative number. For example, 1 goes up in units of 1
+(positive), 8 goes down in units of 1 (negative), 4 goes up in units of 4 (positive), and 5 goes down in units
+                                               of 4 (negative).
+
+ The reason why 9 X 9 is the smallest grid you can make is because it keeps the rings that form the X and Y
+  axes intact (as The Mathematical Fingerprint of God utilizes digits 1-9). You can check if you have full
+       rings by looking for at least one mutliplication series for each axis because they make loops :
+
+
+
+
+                      It is this characteristic that allows the numbers to circulate as well.
+
+On the torus the axes look like this:
+                                                        Again, the Y-Axis is shown in gold, and the X-Axis
+                                                        is shown in green.
+
+                                                        The X-Axis can be thought of as any of the
+                                                        concentric rings you see when facing the pole of the
+                                                        equator.
+
+                                                        Technically, there are 2 Y axes shown here as they
+                                                        are just rings around the actual "tube" of the torus,
+                                                        like this:
+
+
+
+
+Because the Z-Axis is literally coming out at you, it
+is synonymous with The Emanations from the center
+of the torus. However, their effects are detectable
+upon the numbers that make up its surface. This is
+called a Reticulation Pattern.
+
+To find the Z-Axis (made of Polar Pair 2-7 in this
+case) take this positive 1 for example. The numbers
+around it will make 2 and 7:
+
+2 + 5 = 7,
+1 + 6 = 7,
+5 + 6 = 11 (1 + 1 = 2),
+9 + 2 = 11 (1 + 1 = 2)
+
+                                                        It also creates a phenomenon referred to as Waves of
+                                                        9, Shockwaves or Magic Squares.
+
+                                                        Adding up the squares around any number on the
+                                                        grid will give you 9 (even if the square you make
+                                                        does not have 9 at its center). For example:
+
+                                                        8 + 8 + 3 + 9 + 6 + 5 + 2 + 4 = 45 (4 + 5 = 9)
+
+                                                        If you add the number in the center as well, you will
+                                                        get that number. For example:
+
+                                                        45 + 7 = 52 (5 + 2 = 7)
+
+                                                        You can continue to go outward in 1-square
+                                                        increments in all directions like this and the pattern
+                                                        will still hold.
+
+If you map the Magic Squares to the torus they will make patterns:
+                     2X2                                                3X3
+          Octadecagon / 18-Pointed Star                       Dodecagon / 12-Pointed Star
+                    Example:                                            Example:
+
+
+
+
+                  5+2+1+1=9
+This is obviously the smallest Magic Square you can
+                       make.                          8 + 8 + 3 + 7 + 4 + 3 + 5 + 2 + 9 = 49 (4 + 9)
+                                                       = 13 (1 + 3) = 4 (the number in the middle)
+               4X4                         6X6
+       Nonagon / 9-Pointed Star      Hexagon / Hexagram
+              Example:                    Example:
+
+
+
+
+7+4+3+8+5+2+9+7+1+1+6+5+
+    2 + 5 + 6 + 1 = 72 (7 + 2) = 9
+                                     = 180 (1 + 8 + 0) = 9
+                         9X9                                                    12 X 12
+                        Square                                                  Triangle
+                       Example:                                                Example:
+
+
+
+
+  = 424 = 10 (1 + 0) = 1 (the number in the middle)
+
+
+                                                                          = 720 (7 + 2 + 0) = 9
+
+As demonstrated in the examples above, you could also think of the number patterns inside the Magic
+Square in this way: If the length of each side is an odd number of tiles, it will add up to the number in the
+center. If the length of each side is an even number of tiles, it will add up to 9.
+
+One can keep increasing the size of the Magic Square until the entire surface of the toroid becomes one giant
+Magic Square.
+Nested Vortices, Negative Backdraft Counterspace & Spires:
+
+Just as the torus is a giant vortex, its surface is also made up of smaller vortices created by the Phasing of
+The Emanations. They are often likened unto "dimples on a golfball" or "sunspots".
+
+Notice that each red square has the Doubling Circuit
+sequence (1-2-4-8-7-5) inside of it. Following it
+shows how the Nested Vortices turn.
+
+The 9's in the center of every red square are the
+opposite polarity of the Nested Vortice that makes it
+up.
+
+For example, a +9 makes a negative Nested Vortice
+that flows inward (marked by the cyan arrow), while
+a -9 makes a positve Nested Vortice that flows
+outward (marked by the yellow arrow).
+
+
+
+
+They make Nested Vortice Circuits along the surface of the torus like this:
+
+
+
+
+                                                         Positive Nested Vortices are white, while their
+                                                         outward flows are marked by the magenta arrows.
+
+                                                         Negative Nested Vortices are black, while their
+                                                         inward flows are marked by the cyan arrows. This
+                                                         motion towards the center is known as Negative
+                                                         Backdraft Counterspace.
+
+
+
+
+                  Northern Hemisphere
+ *Rotation shown in red. Although it may look like it
+ is rotating clockwise because of the Nested Vortices,
+        it is actually rotating counterclockwise.
+
+The Nested Vortices can be assigned numbers because they follow the same pattern as The Doubling
+Circuits:
+                                                       Negative Nested Vortices are like large negative tiles,
+                                                       while positive Nested Vortices are like large positive
+                                                       tiles (designated by black and white respectively).
+
+                                                       If you follow the rotation of the torus in red, you can
+                                                       see their similarity to The Doubling Circuit. They
+                                                       even wrap around the torus and meet each other in
+                                                       the same way to make the Yin-Yang shape.
+
+                                                       But there are some other patterns to look out for also:
+
+                                                       When moving towards the center, the negative
+                                                       Nested Vortice Circuits count down (9, 8, 7, etc.),
+                                                       while the positive Nested Vortice Circuits count up
+                                                       (1, 2, 3, etc.).
+
+
+
+
+The numbers of each Nested Vortice Circuit come in
+sets of 4 shown in the diagram to the right by the
+magenta and cyan crosses. This is called Quadrature.
+
+
+
+
+                                                       Linking up the adjacent circuits of Nested Vortices
+                                                       by connecting positive and negative vortices in
+                                                       alternating sequences, makes a logarithmic or
+                                                       equiangular spiral coming out of the center, usually
+                                                       refered to as a Spire. There are 4 of them on this
+                                                       particular torus which are shown in orange, yellow,
+                                                       green and pink.
+If you were to follow the numbers of the Nested
+Vortices by going through one of the Spires, you
+would find that on every third one they make another
+Doubling Circuit pattern.
+
+Here only the green Spire is shown to highlight this
+feature.
+
+
+
+
+Dividing By 7 & The Nexus Key:
+
+This may seem a bit abstract, but you can use the Polar Number Pairs to give discrete number values to
+repeating decimals. Taking division by 7 for example:
+
+1/7 = 0.142857... (4)
+2/7 = 0.285714... (8)
+3/7 = 0.428571... (3)
+4/7 = 0.571428... (7)
+5/7 = 0.714285... (2)
+6/7 = 0.857142... (6)
+7/7 = 1
+8/7 = 1.142857... (5)
+9/7 = 1.285714... (9)
+
+Because 2 is the Polar Pair of 7, we can look at the corresponding numbers that result from division by 2.
+They are mirrored just like the multiplication tables.
+
+1/2 = 0.5
+2/2 = 1
+3/2 = 1.5 (1 + 5 = 6)
+4/2 = 2
+5/2 = 2.5 (2 + 5 = 7)
+6/2 = 3
+7/2 = 3.5 (3 + 5 = 8)
+8/2 = 4
+9/2 = 4.5 (4 + 5 = 9)
+
+If 8/2 = 4 then 8/7 must equal a 5 (because this is the polar number of 4). Therefore, the cluser of numbers
+after the decimal (142857) must equal a 4 because we have to add them to the 1 before the decimal point to
+equal 5. Further, if this cluster of numbers equals a 4, then 1/7 equals 4. We can continue this process to
+assign whole numbers to all of the repeating decimals generated by dividing by 7 (these are shown in
+parentheses next to the repeating decimals listed above).
+
+Both division by 7 and the entire skin of the torus is represented by a symbol called The Nexus Key. It is not
+quite the same as The Mathematical Figerprint of God.
+Here is The Nexus Key in red as it exists on the                               The Nexus Key
+toroid. If you could see the whole thing it would                    1-6-5-2-9-7-4-3-8-8-3-4-7-9-2-5-6-1
+repeat like a palindrome.
+
+If you look carefully, there is another sequence of the same type running in the other direction as well. It is
+mirrored in both direction and polarity. This is the Antithesis Nexus Key:
+
+
+
+
+                 Antithesis Nexus Key                      Here is the Antithesis Nexus Key in blue. It too would
+        8-3-4-7-9-2-5-6-1-1-6-2-5-2-9-7-4-3-8              run in palindrome if you could see it continuing
+                                                           throughout the toroid.
+
+Each axis also has its own symbol called a Nexus Key Domain Schematic or Spin Angle Waveform:
+
+
+
+
+   1-6-5-2-9-7-4-3-8-8-3-4-7-9-2-5-6-1   2-3-1-4-9-5-8-6-7-7-6-8-5-9-4-1-3-2    4-6-2-8-9-1-7-3-5-5-3-7-1-9-8-2-6-4
+   8-3-4-7-9-2-5-6-1-1-6-5-2-9-7-4-3-8   7-6-8-5-9-4-1-3-2-2-3-1-4-9-5-8-6-7    5-3-7-1-9-8-2-6-4-4-6-2-8-9-1-7-3-5
+   1-8 Polar Pair = Y-Axis or the        2-7 Polar Pair = Z-Axis or The         4-5 Polar Pair = X-Axis or the
+      "vertical" (in this case)            Emanations (in this case)              "horizontal" (in this case)
+Scaling, Alternate Layouts & Other Number Bases:
+
+Vortex-Based Mathematics is sometimes referred to as Polarized Fractal Geometry because the toroid
+oscillates and is self-similar in nature. No matter how large the grid (and its associated toroid) becomes, it
+will always have the same features (although there can be many variations). It is much like how The
+Doubling Circuit continually reduces back to 1-9. This is why it is called a Whole Number Fractal.
+
+
+
+
+                    Zoom of toroid showing how its grid can be used for higher numbers.
+   The single digit that these numbers reduce to by "casting out nines" is in the parentheses next to them.
+
+While you can make the dimensions of the torus longer in one axis (e.g.: a 9 X 18 tile is possible), the grid of
+9 X 9 scales easily according to an Inverse Square Law:
+
+
+
+
+                                                                                               One Quanta
+         Features:                   Features:                      Features:                    Features:
+
+    *3 Nested Vortice            *6 Nested Vortice             *9 Nested Vortice           *12 Nested Vortice
+        Circuits                     Circuits                Circuits (9 Groups of 18    Circuits (12 Groups of 24
+   (3 Groups of 6 Vortices    (6 Groups of 12 Vortices         Vortices Each – 162      Vortices Each – 288 Vortices
+  Each – 18 Vortices Total)   Each – 72 Vortices Total)          Vortices Total)                   Total)
+
+   *6 Doubling Circuits        *12 Doubling Circuits         *18 Doubling Circuits        *24 Doubling Circuits
+
+         *1 Spire                    *2 Spires                      *3 Spires                   *4 Spires
+
+The 3, 6, and 9 are all assoicated with particular shapes:
+
+
+
+
+While we have gone through the square/diamond-shaped tiling, there are alternate layouts (sometimes called
+Carpets) based upon both the triangle and the hexagon. This is suiting as these are the only 3 regular
+polygons that can completely tile a plane by themselves. One can make tori with surfaces based upon these
+other tilings too.
+                                                  Examples
+
+
+
+
+                  Triangular Layout                                      Hexagonal Layout
+  Even though they overlap to some degree, I have included all the major features so that you can see how
+   they function: The Doubling Circuit is in red, The Gap Space is in blue, The Y-Axis is in gold (it is the
+  "vertical" even though it seems horizontal in the hexagon tiling), a Nested Vortice is shown in cyan, and
+     The Nexus Key is in pink. If you look carefully you can even see the Shearing and its Reciprocals.
+
+You can derive each layout from one another as well:
+
+
+
+
+    Split the diamond tiles in half to make it into the Combine the triangular tiles in groups of six to make
+ triangular carpet. The number in the square becomes the hexagonal carpet. Adding together the numbers
+    the number of the left-most triangle inside of it.   of the triangles (and "casting out nines") gives you
+                                                               the number that makes up that hexagon.
+
+Here is an example of what they would both look like on a toroid:
+                      Top-view of toroid showing both triangular and hexagonal carpets.
+
+There are other specific base systems that naturally form tori. Base-10 is the first and smallest base to
+generate a true torus because it is the first prime to the second power; each consecutive base follows the
+same algorithm. However, we won't cover them here. Examples:
+
+
+
+
+                     Base-26 (5^2)                                          Base-50 (7^2)
+
+Significance:
+
+So what exactly is the significance of all of this?
+It unites all branches of mathematics because it can do all mathematical functions simultaneously.
+
+Furthermore, the coordinate system it contains allows you to model everything as a vortex in great detail,
+from the structure of atoms to galaxies. The vortice is ubiquitous throughout nature.
+
+By "casting out nines" you take all things back to their archetypal form. All numbers can only interact with
+each other in certain patterns, and therefore imply an underlying geometry. It is this geometry that describes
+how all energy naturally flows, the numbers acting like pathways. It is the science of harmonics.
+
+All physical things grow from the center out, and unfold according to doubling/halving (e.g.: cell division,
+nuclear fission, etc.) in a diagonal or spiral pathway around that center. The reversing of the numbers within
+The Doubling Circuit destroys the multiplication tables and is thus synonymous with decay.
+
+The 3 and 6 are the pulsation of Magnetism and the 1-2-4-8-7-5 is the flow of Electricity, curving around it
+to create a boundary through its spin that also allows motions to continue indefinitely (for this reason it is
+sometimes called a Bounded Infinity and/or Spin Continuum). The motion towards the center of the toroid
+made by the Negative Backdraft Counterspace is Gravity.
+
+The Hourglass in the middle is a blackhole-whitehole pair (such as that which resides inside every Active
+Galactic Nucleus). The Primal Point of Unity is a singularity and is not solid (i.e.: it does not eventually
+condense into "nothingness").
+
+The blackhole causes compression (or "implosion") because it is a negative inward vortex (the Northern
+Hemisphere of the torus symbolized by the number 3). The whitehole causes decompression (or "explosion")
+because it is a positive outward vortex (the Southern Hemisphere of the torus symbolized by number 6). The
+equator of the toroid is the turning point. Matter expands and cools as it is released from the whitehole on the
+bottom, and then begins contracting and heating as it passes the equator going into the blackhole on the top.
+All matter is continually recycled in this manner.
+
+The Emanations from the center of the vortex are the cause of its rotation, and are the energy that literally
+controls everything (being synonymous with God's Will). It is symbolized by the number 9. This energy is
+called by many names throughout the work, I believe to accentuate some particular aspect of it:
+
+         Name                                              Property Emphasized
+“Radiant Energy”          for its characteristic of radiating linearly in all directions from the center point like
+                          the radii of a sphere; probably also for its similarity to the energy spoken of by
+                          Nikola Tesla (not to be confused with radioactivity or the ambient heat within the
+                          atmosphere)
+“Inertial Aether” /       for its characteristic of deflecting matter and/or becoming the spin axis for all
+“Quasi-Mass Energy”       mass; it does not bend and does not decay, therefore it "penetrates everything and
+                          nothing can resist it"
+“Tachyons”                for its ability to travel faster than light, such as the capability that sound is said to
+                          have when it travels through a blackhole; some might call it "scalar" or
+                          "longitudinal"
+“Aetheron Flux” /         for its dynamic nature and the fact that Magnetism is always coupled to it
+“Monopole”
+“Orgone” / “Prana” /      for its ability to trigger cell regeneration, and thus its assocation with the various
+“Qi”                      names of the Life Force both ancient and modern (Orgone being the term used by
+                          Wilhelm Reich for the energy that sustains life)
+
+The Phasing is what causes time, which occurs in frames. This is how it was known that the Electric and
+Magnetic moments do not occur simultaneously. There is 1 Aetheron (represented by the 9 of Family
+Number Group 3) for every 2 parts Magnetism (represented by the 3 and 6 of Family Number Group 3).
+They move in opposite directions, with the Magnetism being the after-effect of the Aetherons.
+Technical Applications:
+
+He often states that his goals are to have “inexhaustible energy”, to “end all diseases”, “produce unlimited
+food”, to “travel anywhere in the universe”, and to “utilize the full potential of the brain”. It seems that he,
+his associates, and many independent researchers have caried the work far enough to see how each of these
+might be possible.
+
+The one device he is probably most known for, and the proof of concept for all other devices, is The Flux
+Thruster Atom Pulsar (or “Rodin Coil” for short).
+
+
+
+
+                                     (Images of coil from test by JLN Labs)
+
+It is a bifilar coil (i.e.: has two windings) wrapped in a way that mimics the patterns of the torus. It is this
+shape which gives it several interesting properties:
+
+*It is a room-temperature superconductor; electricity passes through it without resistance because the
+pathway made for it by the wires keeps it from interfering with itself.
+
+
+
+
+*The magnetic field is spread out all along the surface, extending outward in a rotating spiral configuration,
+rather than contained inside the coil (for this reason it is sometimes called a Field Generator Coil). However,
+the center is not necessarily inactive. The flux is pinched within it and thrown out of one end; he often
+compares this action to a “nozzle”.
+It has been suggested that this could be used to make:
+*a propulsion device (a reactionless drive),
+*a fusion reactor (through torodial pinch),
+*a dynamo (using the spin of the field to rotate magnetic motors),
+etc.
+
+It also has already been demonstrated to form a magnetic monopole (i.e.: magnetizing a bar of iron with only
+one magnetic polarity).
+
+He states that it should be energized with Pulsed DC,
+but that ideally, one would not even use wire as a
+conductor. They have made a toroid out of glass that
+would use a plasma instead. (See image).
+
+
+
+
+There are other designs and ideas that are being pursued as well:
+
+*A computer processor of potentially unlimited speed (because the transistors do not heat up and one can use
+less of them to build it),
+*A type of programming language based on the Binary Triplet (Combinational Explosion Tree), said to have
+use in Data Compression and Artificial Intelligence,
+*Communications antennas,
+*Cables for long-distance transmission of DC electricity,
+*3D speakers,
+*Ceiling fans (perhaps of a vortexial design like that of Victor Schauberger's Klimator or Raymond Avedon's
+Thermal Equalizer – unless of course he is referring only to the motor it runs off of),
+etc.
+
+There are even several biological applications:
+
+*A system called Biophysical Harmonics that can be used to heal brain damage through sound (an off-shoot
+of the original idea of intelligence being dependent upon a person's name and the language in which it is
+spoken – the different tones of the voice activiating particular centers within the brain).
+                                           He feels that the mathematics can be used to model
+                                           DNA to:
+
+                                           *develop the understanding that "evolution is not
+                                           haphazard, random trial and error",
+                                           *understand cellular communication more deeply,
+                                           *control it for genetic engineering purposes
+                                           (particularly for the repair of genetic damage),
+                                           etc.
+
+                                           To explain this, he uses the analogy of DNA being
+                                           like a barber pole. The red and blue stripes being like
+                                           the strands that make up the DNA, and the white
+                                           stripe being like the Major Grove, the space where
+                                           all its major functions take place (e.g.: chemical
+                                           bonding, cleavage, receptor site signaling, etc.).
+
+                                           The phosphate groups that make up the backbone of
+                                           each strand have a negative electric charge that
+                                           generates a magnetic field in the Major Groove. It is
+                                           responsible for DNA's helical structure, and all the
+                                           energy interactions within it. He calls it the
+                                           Bioetheric Template and states that it is analogous to
+                                           the concept of a Morphogenetic Field as described
+                                           by Rupert Sheldrake.
+
+                                           Each strand of the DNA moves in opposite directions
+                                           like The Doubling Circuit, and its numbers are the
+                                           various purines and pyrimidines that make up the
+                                           nucleic acids. The Major Groove of the DNA is The
+                                           Gap Space made up of 3-9-6.
+
+
+
+
+The Doubling Circuits (in red and blue)                       Nested Vortices
+     & The Gap Space (in white).
+        Examples demonstrating The Quantum Mechanical State of DNA Sequencing.
+Resources:
+
+His website(s) -
+http://markorodin.com/1.5/
+http://www.rense.com/RodinAerodynamics.htm
+
+It contains all his endorsement papers, audio interviews, and other information.
+
+His books -
+Aerodynamicsss - Point Energy Creation Physics
+The Rodin Glossary
+
+His video presentations -
+http://www.youtube.com/TheUMMCorg
+
+The websites of several persons he works with -
+
+Jamie Buturff -
+https://www.spiritualresults.com/
+http://www.youtube.com/user/jamiebuturff
+
+Randy Powell -
+http://www.theabhakingdom.com/The_Gateway.html
+http://www.youtube.com/user/theabhakingdom
+
+Other Researchers -
+http://www.youtube.com/user/2tombarnett
+http://www.youtube.com/user/rwg42985
+http://www.youtube.com/user/GregorArturo85
+http://www.youtube.com/user/jackscholze
+
+Study Groups & Forums -
+http://vbm369.ning.com/
+http://vortexspace.org/dashboard.action
+
+http://forum.davidicke.com/showthread.php?t=61370
+http://www.abovetopsecret.com/forum/thread651297/pg1
+http://concen.org/forum/showthread.php?tid=12786
+http://www.thunderbolts.info/forum/phpBB3/viewtopic.php?f=8&t=1073
+
+Similar Works -
+
+Based off of the Luo Shu Squares of the I Ching -
+http://web.mac.com/paulmartynsmith/iWeb/IChingmath/Home.html
+http://loshumatrix.webs.com/
+http://www.youtube.com/user/theleeburton
+http://the-magic-square.blogspot.com/
+
+Based off of Buckminster Fuller's work with Indigs (short for "Integrated Digits") -
+http://treeincarnation.com/articles/Number.htm
+http://www.rwgrayprojects.com/synergetics/s12/p2000.html
+
+This list of links is by no means exhaustive, but is included to give you some resources to explore if this
+subject is of interest to you.
+                         Extension – Uncovering Familiar Mathematical Patterns
+
+We have already seen how The Diamond Crystal Grain Lattice Structure can operate somewhat like a
+Cartesian plane in some instances, and how the Spires are equiangular-logarithmic spirals. Here we will
+show that there are other familiar patterns that show up within the grid and torus as well.
+
+Right Triangles:
+
+One can make right triangles on the grid with sides of 6, 12, or 24 squares.
+
+
+
+
+             Example of a 6 X 6 X 6 triangle (in green) and a 12 X 12 X 12 triangle (in yellow).
+
+By adding up the numbers in the squares and then "casting out nines", you can use the "Pythagorean
+Theorem" (a^2 + b^2 = c^2) on them. It will always produce 9 = 9. Examples:
+
+             6 X 6 X 6 Triangle Above                              12 X 12 X 12 Triangle Above
+Side A = 8 + 3 + 4 + 7 + 9 + 2 = 33 (3 + 3 = 6)      Side A = 8 + 3 + 4 + 7 + 9 + 2 + 5 + 6 + 1 + 1 + 6 + 5
+Side B = 2 + 1 + 5 + 7 + 8 + 4 = 27 (2 + 7 = 9)      = 57 (5 + 7 = 12 & 1 + 2 = 3)
+Side C = 4 + 3 + 2 + 1 + 9 + 8 = 27 (2 + 7 = 9)      Side B = 5 + 7 + 8 + 4 + 2 + 1 + 5 + 7 + 8 + 4 + 2 + 1
+                                                     = 54 (5 + 4 = 9)
+                                                     Side C = 1 + 9 + 8 + 7 + 6 + 5 + 4 + 3 + 2 + 1 + 9 + 8
+                                                     = 63 (6 + 3 = 9)
+
+6^2 = 36 (3 + 6 = 9)                                 3^2 = 9
+9^2 = 81 (8 + 1 = 9)                                 9^2 = 81 (8 + 1 = 9)
+9^2 = 81 (8 + 1 = 9)                                 9^2 = 81 (8 + 1 = 9)
+
+9 + 9 = 18 (1 + 8 = 9)                               9 + 9 = 18 (1 + 8 = 9)
+9=9                                                  9=9
+The Golden Rectangle & The Importance of Angles:
+
+One can produce Golden Rectangles on the grid by linking up Polar Number Pairs so that each corner is one
+number, while the center of the rectangle is the other. The only exception being 9, as it has no pair.
+
+
+
+
+                             Here is a Golden Rectangle made by connecting 9's.
+
+While readily apparent on both the triangular and hexagonal layouts, the Golden Rectangle is only noticible
+on the diamond layout if your tiles are made up of 2 Golden or 2 Equiangular Triangles.
+
+
+
+
+          Golden Triangle                       Golden Triangle               60 Degree Equiangular Triangle
+
+                                                                              This is a perfectly balanced tile.
+
+The shapes that make up the surface of the toroid are elastic in a sense, becoming skewed depending upon
+where you are on the surface. In the case of the diamond layout, the tiles start off like the shape to the left
+and become like the one in the middle as you approach The Primal Point of Unity. (See diagram below).
+
+
+
+
+                                Top-view of toroid showing stretching of tiles.
+Pascal's Triangle & The Fibonacci Sequence:
+
+Although it was present in many cultures before its properties were systematized by the French
+mathematician Blaise Pascal in 1653, this mathematical figure often bears his name. Pascal's Triangle is a
+table of numbers generated like this:
+
+
+
+
+                                               Pascal's Triangle
+
+The sides of the triangle are all 1's. Adding up the numbers next to each other in one line gives you the
+number below them (just follow the red arrows). (Example: 1 + 1 = 2, 2 + 1 = 3, 3 + 1 = 4, 3 + 3 = 6, etc.).
+You can continue this process indenfinitely to make a larger triangle.
+
+
+
+
+Adding up the numbers horizontally (cyan arrows) and "casting out nines" gives you the numbers of The
+Doubling Circuit. (Example: 1, 1 + 1 = 2, 1 + 2 + 1 = 4, 1 + 3 + 3 + 1 = 8, etc.). Adding up the numbers
+diagonally (magenta arrows) gives you the Fibonacci Sequence (1, 1, 2, 3, 5, 8, etc.).
+
+The Fibonacci Sequence (named after the mathematician Leonardo of Pisa because he popularized it through
+a book he wrote in 1202), is a string of digits generated by adding each number to the one that comes before
+it in the sequence starting with 1. (Example: 1 + 1 = 2, 2 + 1 = 3, 3 + 2 = 5, 5 + 3 = 8, etc.).
+
+While there are many fascinating patterns within both Pascal's Triangle and the Fibonacci Sequence, we are
+only going to cover one particular aspect.
+
+If you take the Fibonacci Sequence and "cast out nines" on every number that has more than one digit, you
+will eventually get a repeating sequence of 24-digits. Example:
+                 Fibonacci Sequence                                             Sums
+                           1                                                        1
+                           1                                                        1
+                           2                                                        2
+                           3                                                        3
+                           5                                                        5
+                           8                                                        8
+                          13                                                   1+3=4
+                          21                                                   2+1=3
+                          34                                                   3+4=7
+                          55                                            5 + 5 = 10 & 1 + 0 = 1
+                          89                                            8 + 9 = 17 & 1 + 7 = 8
+                         144                                                 1+4+4=9
+                         233                                                 2+3+3=8
+                         377                                          3 + 7 + 7 = 17 & 1 + 7 = 8
+                         610                                                6+1+0=7
+                         987                                          9 + 8 + 7 = 24 & 2 + 4 = 6
+                         1597                                       1 + 5 + 9 + 7 = 22 & 2 + 2 = 4
+                         2584                                2 + 5 + 8 + 4 = 19 & 1 + 9 = 10 & 1 + 0 = 1
+                         4181                                       4 + 1 + 8 + 1 = 14 & 1 + 4 = 5
+                         6765                                       6 + 7 + 6 + 5 = 24 & 2 + 4 = 6
+                        10946                                     1 + 0 + 9 + 4 + 7 = 21 & 2 + 1 = 3
+                        17711                                     1 + 7 + 7 + 1 + 1 = 17 & 1 + 7 = 8
+                        28657                              2 + 8 + 6 + 5 + 7 = 28 & 2 + 8 = 10 & 1 + 0 = 1
+                        46368                                     4 + 6 + 3 + 6 + 8 = 27 & 2 + 7 = 9
+                        75025                              7 + 5 + 0 + 2 + 5 = 19 & 1 + 9 = 10 & 1 + 0 = 1
+                        ...etc.                                                  ...etc.
+                     24-digit sequence: 1-1-2-3-5-8-4-3-7-1-8-9-8-8-7-6-4-1-5-6-3-8-1-9
+
+By taking this string of numbers and plotting it out along the circumfrence of a circle in 15 degree
+increments, you get another torus!
+
+
+
+
+                                   24-digit sequence mapped onto a circle.
+  The Doubling Circuit is in red (forward - CCW) and blue (reverse - CW), and The Gap Space is in green.
+      Notice that they make hexagons. Also, the Polar Number Pairs are connected by yellow lines.
+It can also be viewed in another way when we focus in on The Family Number Groups:
+
+
+
+
+          Family Number Group 3 (3-6-9) is in red. There are two of them, making a hexagram.
+       Family Number Group 1 (1-4-7) is in green and Family Number Group 2 (2-5-8) is in orange.
+ They also make a hexagram. There is an oscillation from one of these hexagrams to the other, with the 1-8
+                 Polar Number Pair (marked in yellow) acting as the axis between them.
+
+There are also variations of the number sequence that can be made in a similar way. For example, by
+beginning our adding on the number 3 instead of 2, we get a new sequence that generates the same sort of
+pattern:
+
+                 Modified Fibonacci                                            Sums
+                             1                                                     1
+                             3                                                     3
+                      4 (1 + 3 = 4)                                                4
+                      7 (4 + 3 = 7)                                                7
+                     11 (7 + 4 = 11)                                          1+1=2
+                    18 (11 + 7 = 18)                                          1+8=9
+                   29 (18 + 11 = 29)                                   2 + 9 = 11 & 1 + 1 = 2
+                  47 (29 + 18 = 47)                                    4 + 7 = 11 & 1 + 1 = 2
+                  76 (47 + 29 = 76)                                    7 + 6 = 13 & 1 + 3 = 4
+                 123 (76 + 47 = 123)                                        1+2+3=6
+                 199 (123 + 76 = 199)                         1 + 9 + 9 = 19 & 1 + 9 = 10 & 1 + 0 = 1
+                322 (199 + 123 = 322)                                       3+2+2=7
+                521 (322 + 199 = 521)                                      5+1+2=8
+                          ...etc.                                               ...etc.
+                  New 24-digit sequence: 1-3-4-7-2-9-2-2-4-6-1-7-8-6-5-2-7-9-7-7-5-3-8-2
+
+You can keep doing this with different numbers, and they will continuously fall into particular groups. These
+are called Fibonacci Families, and there are only 5 of them:
+
+*1, 2 (This is the one made by the original Fibonacci Sequence, the one we have already diagrammed.)
+*1, 3 (This is the example given in the table directly above.)
+*1, 4 (Associated Number Sequence: 1-4-5-9-5-5-1-6-7-4-2-6-8-5-4-9-4-4-8-3-2-5-7-3)
+*3, 3 (Associated Number Sequence: 3-3-6-9-6-6-3-9-3-3-6-9-6-6-3-9-3-3-6-9-6-6-3-9)
+*9, 9 (Associated Number Sequence: 9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9)
+Sine Waves:
+
+As a flat projection, The Doubling Circuit makes a sine wave.
+
+
+
+
+The 1 is also The Decimal Point Singularity, while the 3 dots on each end signify that the numbers continue
+in both directions indefinitely like a regular number-line.
+
+Here is the same diagram with the numbers reduced by "casting out nines" to make the patterns more
+evident:
+
+
+
+
+Note the oscillation of the 3 and 6 at the crest and trough of the waves. Adding up adjacent black numbers
+inside the wave will give you the red number on the wave between them. Example:
+
+1 + 2 = 3,
+2 + 4 = 6,
+4 + 8 = 12 (1 + 2 =3),
+8 + 7 = 15 (1 + 5 = 6),
+etc.
+
+You might have also noticed that 9 is the only number that does not show up in the two diagrams above.
+Remember, since this is a flat projection, the wave is really a spiral. All the numbers spin around the path
+made by the 9 and continue on in the direction in which it points. 9 is both an axis and a vector1.
+
+
+
+
+1 A vector is a line that has both direction and magnitude (or length). They are used to mathematically describe a
+  "force" or action. For example, a car moving north (the direction) at 35MPH (the magnitude) can be described as a
+  "vector" in a geometric space.
+                                  Extension – Uncovering Harmonics
+
+Definitions:
+
+*A tone or pitch is a sound wave moving at a particular rate of vibration, or frequency. It can be
+represented by a note (usually a letter – e.g.: A, B, C, D, E, F, G) or by the Solfege (usually a
+syllable – e.g.: do, re, me, fa, so/sol, la, si/ti, etc.). If we describe them in terms of combinations of
+sine waves instead, each of these is called a partial.
+*A chord is when multiple tones are simultaneously occuring.
+*An interval is the ratio between two or more of these frequencies. They can be thought of as
+proportions.
+*A scale is a set of tones in series. The type of scale it is changes depending upon the intervals
+made between the notes within it.
+
+Moving From Number To Frequency:
+
+We can use the number patterns in The Mathematical Fingerprint of God (doubling and triplets) to
+generate a table of harmonic frequencies.
+
+Step 1 – Beginning from 1, make a column of doubles and a row of triples:
+
+
+
+
+                                   1 X 2 = 2, 2 X 2 = 4, 4 X 2 = 8, etc.
+                                  1 X 3 = 3, 3 X 3 = 9, 9 X 3 = 27, etc.
+
+Step 2 – Multiply every number in the column by every number in the row to
+get all the numbers in the table:
+
+
+
+
+                                        2 X 3 = 6, 2 X 9 = 18, etc.
+                                       4 X 3 = 12, 4 X 9 = 36, etc.
+
+Step 3 – Continue this action until at least an 8 X 8 grid is filled to get this type of table:
+This gives you the frequency of every note in every octave (for a musical scale utilizing a standard
+pitch of A = 432 Hz with intervals that are whole number ratios1). The red notes on the bottom show
+how the order of the columns follows the "circle of fifths" of a Pythagorean chromatic scale. The
+blue square is the speed of light (to less than 1% deviation) which is equal to 432^2.
+
+Moving From Frequency To Number:
+
+We can go in the other direction and derive a number pattern from a set of frequencies.
+
+  Note             Interval              Solfege           Harmonic              Frequency               Sum
+         C                    Unison               do            1st partial             256 Hz                    4
+         C                    Octave               do           2nd partial              512 Hz                    8
+         G              Perfect Fifth              sol           3rd partial             768 Hz                    3
+         C                    Octave               do            4th partial            1,024 Hz                   7
+         E              Major Third                mi            5th partial            1,280 Hz                   2
+         G              Perfect Fifth              sol           6th partial            1,536 Hz                   6
+     Bb-              Minor Seventh                 si           7th partial            1,792 Hz                   1
+         C                    Octave               do            8th partial            2,048 Hz                   5
+         D             Major Second                 re           9th partial            2,304 Hz                   9
+         E              Major Third                me          10th partial             2,560 Hz                   4
+     F#-          Augmented Fourth                  fa          11th partial            2,816 Hz                   8
+         G              Perfect Fifth              sol         12th partial             3,072 Hz                   3
+      A-                Minor Sixth                 la         13th partial             3,328 Hz                   7
+     Bb-              Minor Seventh                 si         14th partial             3,584 Hz                   2
+         B            Major Seventh                 si         15th partial             3,840 Hz                   6
+         C                    Octave               do          16th partial             4,096 Hz                   1
+
+1 Standing waves can only be generated in whole number multiples (this is called a "harmonic series"), or stated
+  another way, by dividing their medium into partial wavelengths that are whole numbers. There are no standing
+  waves of a fractional wavelength in Nature as they cannot be sustained.
+Beginning with C = 256 Hz (the "fundamental"), when we "cast out nines" on this number and
+every sucessive frequency until the numbers repeat (its first eight "overtones"), we get a string of
+digits (4-8-3-7-2-6-1-5-9), highlighted in the right-most column above.
+
+Notice that it contains every digit of 1-9 at least once. This is The Harmonic Number Sequence, and
+it can be diagramed by a symbol called The Ennead:
+
+
+
+
+          The Ennead                     Divisions in degrees          Corresponding musical notes
+
+It is interesting that "casting out nines" on the degrees going clockwise gives you the sequence over
+again. Example: 4 + 0 = 4, 8 + 0 = 8, 1 + 2 + 0 = 3, 1 + 6 + 0 = 7, etc. Note that the 0 at the top is
+also 360 degrees (and 3 + 6 + 0 = 9).
+
+The Ennead is not only one 9-pointed star, but 3 nested ones:
+
+
+
+
+              Here are the 3 stars ordered from largest (yellow) to smallest (magenta).
+
+It can also be thought of as 3 nested triangles whose areas increase in size logarithmically:
+  Triangles are shown in red, green, and blue. They continually make the 3-9-6 pattern of Family
+                                         Number Group 3.
+
+While The Ennead may look similar to The Mathematical Fingerprint of God, it is actually a polar-
+ view of the toroid. The triangles are becoming bigger or smaller because they are spinning along
+   an axis that is either coming towards you (Northern Hemisphere) or moving away from you
+                    (Southern Hemisphere), which gives it this tunnel-like effect.
+
+The Harmonic Number Sequence is the X-Axis of the toroid (the "horizontal" made up of Polar
+Number Pair 4-5). Therefore, you can also derive it from multiples of 4 and 5. For example:
+
+                   4X1=4                                             5X1=5
+                   4X2=8                                       5 X 2 = 10 (1 + 0 = 1)
+             4 X 3 = 12 (1 + 2 = 3)                            5 X 3 = 15 (1 + 5 = 6)
+             4 X 4 = 16 (1 + 6 = 7)                            5 X 4 = 20 (2 + 0 = 2)
+             4 X 5 = 20 (2 + 0 = 2)                            5 X 5 = 25 (2 + 5 = 7)
+             4 X 6 = 24 (2 + 4 = 6)                            5 X 6 = 30 (3 + 0 = 3)
+      4 X 7 = 28 (2 + 8 = 10 & 1 + 0 = 1)                      5 X 7 = 35 (3 + 5 = 8)
+             4 X 8 = 32 (3 + 2 = 5)                            5 X 8 = 40 (4 + 0 = 4)
+             4 X 9 = 36 (3 + 6 = 9)                            5 X 9 = 45 (4 + 5 = 9)
+
+Notice that the multiples of 4 are The Harmonic Number Sequence moving forwards, while the
+multiples of 5 are it moving backwards.
+     Top-view of torus showing how the The Harmonic Number Sequence is the X-Axis. The
+       corresponding musical notes are also shown, along with two 9-pointed star patterns.
+
+These star patterns are logarithmic spirals that demonstate the harmonics of vortex motion. They
+show how energy is drawn into or away from The Primal Point of Unity in the center of the toroid
+to recycle matter. If you were to trace one of them out it is easy to see how it spirals:
+
+
+
+
+Beginning on the red 4 to the right, follow the arrows to touch each of the numbers within The
+Harmonic Number Sequence. Notice that when you finish the star you come right back to 4 again.
+Also note that we have flows going in both directions simultaneously (we just traced out a star
+counterclockwise, but the sequence runs clockwise as well).
+
+The following may be somewhat complicated, but is included for sake of completeness.
+On this particular torus:
+
+*There are 4 star patterns for each of the 4 Spires. (2 of them control compression, and the other 2
+control decompression along one of the poles of the toroid; each of these is 180 degrees away from
+its mate, and 90 degrees from each of the others).
+
+*There are 4 repetions of The Harmonic Number Sequence (4 repetitions X 9 digits that make up
+the sequence = 36 digits total). There are thus 36 pathways of energy on the entire torus (9 of which
+control compression and 9 that control decompression, making a total of 18 on each pole; 18
+pathways X 2 hemispheres = 36 pathways total). These pathways are actually the lines that make up
+the star patterns (4 stars X 9 lines = 36 pathways).
+
+Musically, each sequence represents a fundamental tone and the first 8 overtones (spanning 4
+octaves). 4 sequences X 4 octaves = 16 octaves of overtones in each Spire and for each of the 18
+pathways on each pole. 16 octaves X 18 pathways = 288 octaves of energy expressed in the entire
+toroid, with 144 octaves to complete one cycle of compression or decompression.
+
+The Lambdoma Matrix:
+
+Pythagoras (an ancient Greek philosopher who studied mathematics and music) is said to have
+made a table of ratios based upon a combination of the Harmonic Series and a sacred symbol called
+a Tetractys. It is called a "lambdoma" for its similarity to the Greek letter lambda, Λ.
+
+
+
+
+                                       The Lambdoma Matrix
+
+The left side (marked in red) represents a overtone series (i.e.: the ratios of overtone wavelengths to
+the fundamental tone wavelength), whereas the right side (marked in blue) is the undertone series
+(i.e.: the overtone series inverted). Stated more simply, doubling a frequency produces the same
+note one octave higher, while halving the frequency produces the same note one octave lower. (See
+diagram below).
+
+The Harmonic Number Sequence (X-Axis of the toroid) is equivalent to the left side of The
+Lamdoma Matrix above.
+
+
+
+
+   From C to C on a piano is either doubling or halving depending on which direction you move.
+
+Having C as 256 Hz (and by extension A as 432 Hz, depending upon what "intonation" or tuning
+you are using) is sometimes used in science ("Scientific Pitch") because of its recognition of
+conserving the pattern of doubling in frequency from octave to octave. The current, arbitrarily
+chosen "Concert Standard Pitch" is C = 261+ Hz / A = 440+ Hz. Is this a reflection of how energy
+moves (like all the harmonic tables given above)?
+
+This may seem insignificant, some might even state that these rules are unecessary and/or wholly
+dependent upon musical taste, but all manifest things are of motion, of vibration. Sound is thus
+form, and can not only affect deep changes in people2, but literally help create or destroy physical
+structures as well, even on the most subtle of levels. What effect might a constant dissonance have
+upon your body and your behavior?3
+
+Pythagorean Color Harmonics:
+
+Pythagoras is also have said to have assigned a color to each musical note.
+
+*C – Red
+*D – Orange
+*E – Yellow
+*F – Green
+*G – Blue
+*A – Indigo
+*B – Violet
+
+2 There are many disciplines (Music Therapy, Brainwave Entrainment, etc.) that provide evidence of sounds in
+  general, and especially music (whether playing or just listening), having profound effects on a whole slew of bodily
+  processes, both immediate and long-term. Examples: http://www.emedexpert.com/tips/music.shtml
+3 It is said that the Pythagoreans believed all things could be expressed in number (including "abstract concepts such
+  as justice"). Perhaps thinking of things like emotions in terms of vibration (which can be designated by a particular
+  number, also known as its frequency) can make this point of view more tangible?
+If we color code the tones we used in The Harmonic Number Sequence earlier, we get can then
+color the grid that makes up our torus in the same fashion.
+
+
+
+
+Top-view of torus showing all positive tiles of The Harmonic Number Sequence colored according
+                               to Pythagorean Color Harmonics.
+
+               4 – C, Red (First & Second Octave – Fundamental & First Overtone)
+                         3 – G, Blue (Second Octave – Second Overtone)
+                           7 – C, Red (Third Octave – Third Overtone)
+                         2 – E, Yellow (Third Octave – Fourth Overtone)
+                           6 – G, Blue (Third Octave – Fifth Overtone)
+                          1 – Bb, Violet (Third Octave – Sixth Overtone)
+                         5 – C, Red (Fourth Octave – Seventh Overtone)
+                        9 – D, Orange (Fourth Octave – Eighth Overtone)
+                                   Extension – Making A 3D Grid
+
+Marko Rodin, working in tandem with Greg Volk, have extended The Diamond Grain Crystal
+Lattice Structure into 3-dimensions. There is a masterful presentation of this by Russ Gries. I highly
+recommend you watch it. A detailed paper about it can also be found here.
+
+This is only going to cover the introductory aspects of it in as simple a way as possible.
+
+Step 1 – Take a cube and cut it diagonally both ways to make 6 pyramids with square bases.
+
+
+
+
+           A cube cut diagonally both ways with pyramid formation highlighted in pink.
+
+Step 2 – Attach each of these 6 pyramids to another cube of equal volume so that their bases meet
+each square face of the cube. This makes another shape called a rhombic dodecahedron.
+
+
+
+
+        5 pyramids connecting to a cube.                         Rhombic Dodecahedron
+
+   One pyramid is not shown so as to make the
+         cube on the inside easy to see.
+
+If you were to split each one of the diamond shaped faces into triangles you could see the cube
+inside of it. (See diagram below).
+         Rhombic dodecahedron with 1 pyramid removed to show how cube is contained
+                                         inside it.
+
+Why is it called a "rhombic dodecahedron"? Because its faces are made of rhombi and it has 12 of
+them like a dodecahedron.
+
+
+
+
+                                  (Image from Wolfram Mathworld)
+
+You can see how its faces are also Equiangular Triangles just like The Diamond Grain Crystal
+Lattice Structure.
+These rhombic dodecahedra can be stacked to fill space perfectly, and each one is equivalent to a
+tile in 3-dimensions (i.e.: each has a number inside it). The smallest stack you can make is a block
+of 9 X 9 X 9, similar to the grid of 9 X 9 in 2-dimensions. However, there are 3 times as many
+negative numbers as positive numbers inside of it.
+
+By facing the block directly (so that you are only looking at one face), you can use it as a normal
+grid, or you can move through it as if it were many grids layered on top of one another. You can tell
+which Polar Number Pair is your Z-Axis from that direction because the reciprocals will change.
+
+
+
+
+               1-8                               2-7                               4-5
+                    Extension – The Flux Thruster Atom Pulsar & Its Geometry
+
+             WARNING: This work is potentially dangerous. Please use proper safety precautions
+             when using electrical equipment, and get a thorough understanding before attempting
+             to experiment with it.
+
+
+General Background:
+
+Vortex Based Mathematics is referred to as Omni-Fourth Dimensional. What does this mean? Let
+us parse it:
+
+*Physical matter is electrical, its action is represented by The Doubling Circuit (and the Family
+Number Groups 1 and 2). This is 3-dimensional.
+
+*Energy is magnetic, its action is represented by the pulsation of 3 and 6 in Family Number Group
+3. This is 4-dimensional.
+
+*It is The Emanations that makes both of these possible, and its action is represented by the self-
+similar number 9 in Family Number Group 3. This is "omni"-dimensional because it is ever-present,
+controling all things from within and without.
+
+There are many interesting correlations between the math and Electromagnetism. For example, on
+The Mathematical Fingerprint of God, each of the "magnetic numbers" (3, 6 and 9) are 120 degrees
+away from each other (120, 240, and 360 degrees respectively). This is the same as the 3-phases of
+a rotating magnetic field. Also, The Doubling Circuit (being the "electrical numbers") embodies
+patterns similar to the "stepping-up" (doubling) and "stepping-down" (halving) of an electrical
+transformer.
+
+However, in this section of the document we are going to cover specifically how to wind a "Rodin
+Coil" and how it embodies the geometry of the toroid.
+
+Like we did with the above term, let's parse the full, original name of the "Rodin coil", The Flux
+Thruster Atom Pulsar Electrical Venturi Space-Time Implosion Field Generator Coil. It may seem
+excessive, but each term contributes to the overall meaning in some way and is very important:
+
+*"Flux Thruster" – As described much earlier in the Technical Applications section, the magnetic
+field goes in one end, is pinched by the The Primal Point of Unity in the center (usually referred to
+as the Aeth Coalescence in this case), and thrust out of the other end to make what is called a
+Centroid Nozzle. It is therefore a "thruster" of magnetic "flux".
+
+To be more specific, and it cannot be emphasized enough, The Emanations are a real energy and
+this device demonstrates their existence. They are radiated from the Aeth Coalescence, imparting
+spin to the magnetic field (thus creating a Torsion B-Field). Notice that there is no mechanical input
+which causes this phenomena, but only the geometry of the wire. When the device is constructed
+and powered in the right way, this energy does one more thing in addition to the "pinching"
+described above:
+
+It makes Nested Vortices of magnetism along the surface (sometimes called Vector Spatial
+Interstices). These keep it from heating up as they act as little heat sinks, pumping the heat
+generated by the electricity away from the wires to keep them cool. Therefore, one can make
+"computer chips that cool themselves" (as it is pointed out in the presentation Inexhaustable
+Electricity Supply). To quote Randy Powell, they also "act like kickers for the electricity", allowing
+you to have two wires next to each other without insulation and without shorting out. This is called
+Synchronized Electricity and we will talk more about this later.
+
+*"Atom" – The geometry of the coil literally makes it a macroscopic model of an sub-atomic
+particle or atom. How so?
+
+On the subatomic level, we will use the electron as an example. Electrons have spin (angular
+momentum) which allows them to act somewhat like little magnets. This property is actually being
+utilized to create devices in a branch of electrical engineering called Spintronics.
+
+The electron is a little toroid. Like the Torsion B-Field in the coil, The Emanations are responsible
+for its spin, hence Marko is said to have "discovered the source of the non-decaying spin of the
+electron".
+
+Atoms function in a similar manner. We know atoms are not always symmetrical on both ends
+because "parity is not conserved" (meaning that when polarized, an atom will eject small particles
+from one end).
+
+Their electrons don't make circular orbits, but tunnel through the "nucleus" (The Primal Point of
+Unity) in logarithmic spirals like the Spires. Although they might seem complex, they are harmonic
+and predictable with the math (being called an Interferometry Numerical Pattern when used in this
+sense). They do not make "jumps", but change in frequency.
+
+Although this is not mentioned, we could also show that the planets do the same thing on a much
+larger scale (in the sense of both time and space), being emitted from the sun in egg-shaped waves
+(or circuits) that produce a logarithmic "Parker Spiral" in the plasma that makes up the
+"Heliospheric Current Sheet" which fills the solar system.
+
+Just as through harmonics, Johannes Kepler approximated the structure of the solar system by
+nesting Platonic Solids, Robert J. Moon used a similar model to describe the structure of the atom.
+
+*"Pulsar" – As we just saw, harmonic principles apply to every level of scale. Pulsars, which "are
+highly magnetized, rotating neutron stars that emit a beam of electromagnetic radiation", follow the
+same patterns as evident by their description. In two words, we've jumped from atomic to stellar
+sized objects that the properties of this device (and its associated mathematics) are able to describe.
+
+One of the most intriguing examples given of this has to do with the similarity of red giant stars and
+red blood cells. Red blood cells are toridial. They contain chemicals ("metalloproteins") called
+"hemoglobin" that help transport oxygen in the bloodstream. Part of what makes up these chemicals
+is a substance called a "heme group". (See diagrams below).
+     Heme Group of Hemoglobin Molecule                    Central core of Red Giant Star showing its
+                                                                various "combustion shells".
+                     Contains:
+                 Iron is in yellow.                                From center to periphery:
+                Nitrogen is in blue.                                      Iron (Fe)
+                Carbon is in white.                                      Silicon (Si)
+                 Oxygen is in red.                                       Oxygen (O)
+                                                                         Neon (Ne)
+There is a balance of 4, 5, and 6-fold symmetries                        Carbon (C)
+            created by their bonding.                                   Helium (He)
+                                                                        Hydrogen (H)
+                              (Images adapted form ones in The Rodin Glossary)
+
+The elements within the "heme group" follow a particular pattern from the center to the periphery,
+while the elements within a red giant star do also, being stratified into layers due to the pressure
+differences throughout it. Notice that iron centers both of them.
+
+What if stellar evolution and biological evolution are one and the same, unfolding in the same sort
+of sequences only at different pressures and sizes? The interconnectedness of ourselves to our living
+environment seems to point out that we are like cells in a larger being.
+
+*"Electrical Venturi" – Various descriptions are given as to the properties that an "ideal conductor"
+for this device would have. They should have the least acute incline as possible in relation to the
+toroid (Least Mean Free Path), and should be fatter on the outside than on the inside. Why?
+
+The first feature creates an angular relationship that keeps the electricity from interfering with itself
+and causing resistance. The squeezing of the conductor specified by the second feature helps the
+electricity "flow" better in a sense, increasing in amperage while decreasing in voltage, much like
+how water flowing through a pipe will increase in speed and decrease in pressure when going
+through a constricted section of that pipe. This is known as the Venturi Effect, and hence it is an
+Electrical Venturi.
+
+*"Space-Time Implosion" – The Primal Point of Unity is the singularity of a blackhole-whitehole
+pair, the blackhole half of it causing the "implosion" of "Space-Time". Alternately, it is a
+"coalescence" of "Aether". It was mentioned in the Significance section closer to the beginning of
+this document that one of these resides inside the "Active Galactic Nuclei" of every galaxy. In a
+very literal sense, this device makes a miniture version of one to some extent.
+
+To give a more complete description, the Aeth Coalescence itself is actually produced by two
+interpenetrating tetrahedral-shaped fields of energy whose apices are 180 degrees from one another.
+They rotate in opposite directions in a harmonic ratio at the speed of light in the center of the toroid.
+Together they make up The Unit and their motion is called a Cosmic Eggbeater.
+
+
+
+
+ The Unit spins along The First 9-Axis (in red)        Here is a cross-section of the torus showing the
+   while the two vortices that make up The             Aeth Coalescence created in the center point of
+ Hourglass are formed perpendicular to it, NOT          The Unit. The Emanations are the red arrows
+               on the same axis.                          moving in all directions from it radially.
+
+Not only does it spin along its own axis, but the The black lines on the vortices that make up The
+entire Unit itself also rotates around to form The    Hourglass show the general path that matter
+  Second 9-Axis (in blue). This IS the axis on     travels upon (going in on the top and coming out
+   which the vortices of The Hourglass spin.                        on the bottom).
+                              (Images adapted form ones in The Rodin Glossary)
+
+
+
+
+  The center of mass in a tetrahedron is called a "centroid" (in pink), and when these points merge
+inside The Unit in its star tetrahedron configuration they make the Aeth Coalescence (in red) which
+  produces the Centroid Nozzle action. Rotation of interpenetrating tetrahedrons is shown in blue.
+
+  The faces of these tetrahedron are equiangular (60 degrees). The angles of the tetrahedra specify
+  the directions in which The Emanations are emitted from the center, and how the surface of the
+                           toroid crystallizes. It is hexagonally polarized.
+The Unit is the center of all matter on every level of scale. It emits a Fundamental Tone created by
+the frequency (i.e.: the rate of spin) of the two tetrahedons. In turn, this creates a series of overtones
+and undertones that create a spiral path for matter to circulate on through the toroid (like The
+Ennead star patterns made by The Harmonic Number Sequence). One tetrahedron produces positive
+Emanations that give this matter spin and momentum (positive Nested Vortices), while the other
+produces negative Emanations that create Gravity (negative Nested Vortices or Negative Backdraft
+Counterspace).
+
+There is an infinite number of variations to the toroid as there are an infinite number of wavelengths
+the energy that makes up The Unit can take. The Unit can ratchet to form different geometries when
+you look at it from one of the axes of spin (like the stars generated by the Magic Squares). The Unit
+can also move through space to make very complex patterns with its motion, or oscillate in place in
+different ways to do the same. It is compared to a "kaleidoscope" for the endless number of forms it
+can make, but the movements make me think of it as a multi-dimensional Spirograph.
+
+There is a main Unit that integrates the energies of all other Units of the same system. The rotation
+of all Units is continually sustained by Love. Pure Love is the only energy that can allow Creation
+to take form because it is absolute coherence. How can a thing exist without coherence? For
+example, to put it within a personally relevant context, how do the trillions of cells that make up
+your body function as ONE whole?
+
+*"Field Generator Coil" – This part of the name has to do with the fact that the magnetic field is on
+the outside of the coil, rather than wholly contained inside of it like a traditionally wound toroid
+coil.
+
+Getting Started:
+
+Now, we are going to go through the winding of a coil step-by-step and explain how each feature
+relates to the mathematics. There are many resources on the internet that can guide one in making a
+well-designed "Rodin Coil" if these instructions alone are insufficient. While there are an increasing
+number of variants out there, we are only going to focus on the original design. The features this
+particular design has are very important.
+
+Step 1 – We need something to act as a support for wrapping our coil. It should be a ring-shape, and
+to get the full effect of the magnetism, it should also have a hollow core. There is an easily
+attainable item that meets all of these criteria, the toy doughnuts made for children. (See picture).
+
+
+
+
+                                      A child's toy made of rings.
+                                            (Image from Kidloo)
+Step 2 – Taking the largest ring from the set, we must prepare it for winding. It is necessary to
+remove any raised lettering or designs upon its surface. Scrape them off with a razor. (Please be
+careful).
+
+If the surface is too slick, you can also lightly scruff it up with sandpaper to give it some traction so
+as to hold the wire upon it properly.
+
+If the plastic is too flimsy, you can cut it in half, pack it with foam, and then put it back together
+with glue to make it more sturdy. You do not want it to deform while you are wrapping your wire
+around it as that will alter the geometry of the coil.
+
+Step 3 – We aren't quite done preparing it for wrapping just yet. We need to separate the surface of
+our ring into evenly spaced increments, 36 of them to be exact. Taking a marker and protractor,
+make a line every 10 degrees along the equator of the ring.
+
+Within each one of these points we are going to place a pin to act as a jig for our wire.
+
+
+
+
+                                          (Image from Alex Petty)
+
+
+Step 4 – Now we are ready for the wire. Any thickness is fine, so long as it is not too thick (e.g.:
+cannot allow for multiple wraps around the ring) or too thin (e.g.: it breaks easily). If the wire you
+have is on a spool, make sure that the spool is small enough to fit into the hole of the ring for ease
+of wraping. If the spool is too big, you can always remove the wire from the spool and wrap it on
+any skinny object (e.g.: popsicle stick, pencil, pen, etc.) to feed it through the hole instead.
+
+This coil is going to have 2 wires (making it a "bifilar coil"). We have divided it up into 36 points
+(like the 36-digits that make up The Harmonic Number Sequence) because this is the X-axis (the
+"horizontal") of our toroid, and each of the wires is going to be wrapped in a star pattern along the
+surface of the ring in a way that is similar to The Ennead, except with 12-points instead of 9.
+ Here is a picture of a completed coil to give you an idea of what they look like before we describe
+ how to make the windings. While it looks like only one wire wrapped into a spiral-like shape, it is
+                          really two wires that are right next to each other.
+                                        (Image from Alex Petty)
+
+
+
+
+                   (First Wire)                                     (Second Wire)
+
+To begin, take one wire and wrap some of it around the pin corresponding to the number 1 on the
+ring. This is our starting point for this wire.
+Now, going over the top of the ring and into the hole, come out on the other side on the number 180
+degrees from the 1, in this case, 16. This is one "turn".
+
+Then, go over the top of the ring and back into the hole towards the number 180 degrees from 16,
+which is 31. Continue this process until you have come back to the number 1 again. This is one
+"wrap" or "winding". When it is done, it should look something like this:
+
+
+
+
+                                               One wrap.
+
+      He has cleverly extended the pins as a reference for what numbers he is winding around.
+  If you decide to do the same, be careful not to let any of them come out until you are finished as
+                                   that would ruin your windings.
+                                          (Image from Alex Petty)
+
+
+While the wire should not be so taught as to snap it or bend the plastic, it cannot be too slack or it
+will not duplicate the necessary geometry. You can use a little bit of tape or glue to hold it in place if
+necessary.
+
+Continue making wraps in the same way for both wires. You can make as many as you would like,
+but with two very important stipulations:
+
+*The number of wraps for both wires should be equal to each other. (Perhaps aim for a number
+divisible by 3, 6, or 9).
+
+*You cannot fill the entire ring with wraps. You have to leave a space of equal width to all the
+wraps of one wire in the areas corresponding to all the numbers not touched by the above two star
+patterns. (See diagrams below).
+ Picture on the left is a close-up of the coil showing the space as equal to the width of the wraps of
+              one wire. Picture on the right shows the numbers associated with them.
+
+So, what is the significance of these number patterns used to make the coil? While the 36-digits
+point out its relationship to The Harmonic Number Sequence and the energy pathways made by The
+Ennead stars, it does not seem to be the X-axis alone. Maybe, like the 36 X 36 tile (One Quanta),
+these stars are an embodiment of the energies of the entire toroid in great detail if we know how to
+look at them? "Casting out nines" on them makes their patterns more transparent:
+
+
+
+
+   This is a positive Family          This is a positive Family         This is a positive Family
+   Number Group 1 and The             Number Group 2 and The          Number Group 3 and The Gap
+      Doubling Circuit.                  Doubling Circuit.                        Space.
+   When you are winding a wire, you move through the digits that make up the Family Number
+           Groups repeatedly, always ending up 90 degrees from the previous one.
+                            Comparison of "Rodin coil" to ABHA Torus.
+
+ The picture to the left shows the wires color-coded to their corresponding star patterns. He has the
+             bottom of the coil facing himself because the wires are running clockwise.
+
+ The picture in the middle shows how they would show up on the torus. They create Shearing like
+                     adjacent Doubling Circuits moving in opposite directions.
+
+   The picture on the right shows Nested Vortices (in blue and yellow) and Spires (in magenta).
+          This is what happens in the magnetic field when the coil is activated properly!
+
+Synchronized Electricity:
+
+             WARNING: This information has not yet been tested, and is merely a guess at what
+             the proper activation of the coil would be. Please exercise caution if attempting to
+             implement the ideas herein. I do not know how big of an effect it might have.
+
+             It is very important to note that the device really should NOT be used with AC as the
+             oscillating magnetic field could generate microwaves. The fact that this magnetic field
+             is exposed may also create interference. Keep sensitive equipment properly shielded.
+
+The similarity of the description for Synchronized Electricity (given in The Rodin Glossary) and
+The Binary Triplet leads me to believe that proper activation might be quite simple to achieve with a
+regular "Rodin coil" made to the specifications given above. It has to have The Gap Space and a
+hollow core!
+
+Before we begin, find out which end of the coil is where the flux is being expelled from (the
+windings should be running clockwise on that side because it is the Southern Hemisphere). If you
+are unsure, run a little bit of current through it. Once found, place this end downward and keep clear
+of it when attempting to energize the device in the event that a jet of energy is released from it upon
+activation. Power it from a distance if possible and begin only with low voltages.
+
+Generally, the process would be as follows:
+
+*Keeping in mind that wire 1 is a positive Family Number Group 1 and wire 2 is a positive Family
+Number Group 2, we should pulse DC into both wires simultaneously but invert the voltage going
+into the second wire. (This is the activation of Family Number Group 1).
+
+*Then, on the next cycle, reverse this. (This is the activation of Family Number Group 2).
+
+*Stop right there! Don't put any more pulses in just yet. I believe that the combination of this sort of
+twisting and pulsating action will lead to Nested Vortices being produced in the magnetic field on
+the third cycle, with effects being most evident within The Gap Space. Having a conductor here will
+interfere with it, which is why you don't put wraps all the way around the ring. (This is the
+activation of Family Number Group 3).
+
+*At this point, the fourth cycle, we must give it an interval of rest as the magnetic field collapses in
+preparation of the next pulse that will start the cycle all over again. You might have to play with the
+timing of it, but it is likely that it will achieve resonance even if you are off a bit.
+
+The conductors are meant to be perfect loops in any torus that is formed in Nature (being the
+Bounded Infinity / Spin Continuum that allows motions to continue forever). But in order to
+energize the one we have made with our coil, they have to be open so that they can be connected to
+our power source. In a sense we are working backwards, using the electricity and magnetism to
+make a toroidal space for the Aetheron Emanations to show up, rather than building it from the
+center out with a Cosmic Eggbeater powered by Pure Love as Nature does.
+
+Despite this, I have a strong feeling that it is quite likely that it will begin to sustain itself after a
+while if all of this is done correctly (meaning that the field will no longer require a power source). I
+also have a feeling that it will change the atmosphere around the device, possibly even having an
+effect at great distances.
+
+Everything being alive, it is a living entity rather than "just a device" (e.g.: Plasmoid).
+                Extension – "Advanced" Mathematics: Its Relationships To Energy
+
+VBM As A Wholistic Framework:
+
+I find that Vortex Based Mathematics is a very elegant framework. I would even venture to say that
+it literally contains and unifies all branches of all currently known mathematics. However, the
+approach is so different that it may not be readily apparent as to how.
+
+While it seems to be only arithmetic patterns based on numerology-like reasoning, these only serve
+as a means to introduce a more fundamental order which can be approached in "higher" dimensions
+as well. As Rodin's associate, Alastair Couper writes: "Marko's original vision was essentially a
+perception of a four dimensional sphere, which becomes a complicated toroidal structure when
+projected into three dimensions. He also perceived a mapping of an energy flow on the surface of
+this projected toroid."
+
+I will try to make the following topics as approachable and friendly as possible. Even if it does not
+make sense immediately, please keep reading. Feel free to skip over parts and come back to them
+later.
+
+"Imaginary" (or "Complex") Numbers & Their Stereographic Projections:
+
+A good introduction to imaginary numbers can be found here and here; a video that specifically
+covers this topic can be found here (click the link and open up video number 5 in the playlist that
+comes up; if it is inconvenient to do so, there is a text explanation here).
+
+In the above resources it is pointed out that imaginary numbers "'rotate' numbers, just like negatives
+make a 'mirror image' of a number". Here is a graphic from one of those websites describing this
+action:
+
+
+
+
+                                     (Graphic from BetterExplained)
+
+Would it be possible to use The Diamond Grain Crystal Lattice Structure as a "complex plane" (i.e.:
+like a Cartesian plane but for plotting out "imaginary" numbers)?
+Regular grid showing X and Y axes as multiples       Y-Axis (gold) as "imaginary" dimension and
+  of 4-5 (green) and 1-8 (gold) respectively.        X-Axis (green) as "real" dimension. Powers of
+                                                       imaginary numbers shown in red; they are
+                                                        mirrored like the Polar Number Pairs.
+
+In the video they demonstrate that you can make a "sterographic projection" on this "complex
+plane" by placing the pole of a sphere on the origin.
+
+
+
+
+  "Projecting" through the north pole of the sphere onto the complex plane under it. Each point on
+                     the plane then becomes one on the surface of the sphere.
+                                       (Graphics from Dimensions)
+
+This is used to describe that a sphere can be thought of as a "complex projective line". This means
+that it can be 1-dimensional (the blue line along the surface of the yellow sphere in the picture to the
+left), in addition to being either 2-dimensional (the surface of a sphere as a flat plane) or 3-
+dimensional (a sphere as a geometrical "solid"), because it only takes one complex number to
+describe it...much like how by knowing one number on The Diamond Lattice you know all of them.
+
+Is it possible to describe every number on the toroid at once with a loxodrome-like curve, similar to
+that in the box above on the right? Have we might already even have done this in a simple way
+without knowing it?
+                    This is a view of both poles of the torus simultaneously.
+
+I have made a continuous red line that shows how one would tunnel through every number along
+ its surface. It makes a curvy "S" shape like the two connected spirals at the top. (Note that these
+          small spirals are just for illustration and do not have the proper number of turns).
+
+The line where the two spirals meet would tunnel through all the numbers along the equator, as
+                                  indicated by the grey line.
+
+                     The center of both spirals is The Primal Point of Unity.
+As we already know, the X axes, being rings,
+make concentric circles when viewed at the
+pole, such as in the diagram to the right.
+
+
+
+
+                                                    It is this feature that leads to little kinks in the
+                                                    curve as you hop from ring to ring when making
+                                                    the turns of the spiral. (They can be seen as two
+                                                    little staggared lines on each pole in the diagram
+                                                    on the previous page). The picture to the left is a
+                                                    zoom of that segment...
+
+                                                    Wait a second, do these two lines coincide with
+                                                    The Nexus Key and its Antithesis? I have
+                                                    highlighted them in pink and filled in some of
+                                                    the numbers to show their patterns.
+
+                                                    The Nexus Key -
+                                                    1-6-5-2-9-7-4-3-8-8-3-4-7-9-2-5-6-1
+
+                                                    The Antithesis Nexus Key -
+                                                    8-3-4-7-9-2-5-6-1-1-6-5-2-9-7-4-3-8
+
+I feel that The Nexus Key and its Antithesis, as their name implies, are "keys" in the sense of a map.
+You look at the key on a map to figure out what its symbols mean; at a glance, you get all the
+information it contains. In the same way, either one of these sequences can give you all the patterns
+of the toroid (because it passes through both The Doubling Circuit and The Gap Space, running in
+the other direction as them or "counter-diagonally"). By taking the whole sequence, we get all 18
+numbers that make up the positive and negative tiles. By taking half of the sequence and following
+each end towards the 9 in the middle of it, we get each of the Polar Number Pairs. The sequences
+either count up or down; it is this "breathing" action that the palindromes make which can also give
+us the polarity of the tiles (and by extension, every feature that can be derived from such: The
+Emanations and their Phasing, the Nested Vortices and their circuits, the Spires, etc.). It also gives
+you at least one of the axes of the coordinate system (because The Nexus Key is the same as the
+Nexus Key Domain Schematic for Polar Number Pair 1-8).
+
+But that is not all. These are also "keys" in the sense of those that unlock gateways or open doors.
+The toroid is a link between dimensions, in more ways than one.
+Of course, all this talk of complex numbers is conjecture on my part. The Rodin Glossary mentions
+them on page 35, in a section entitled Complex Planes and Fermat's Last Theorem. It states:
+
+"Periodic functions, such as sines and cosines, were studied by Poincare on a 'complex plane' rather
+than on a 'number line' as did Fourier. Poincare examined the complex plane, which contains real
+numbers on the horizontal axis and imaginary numbers on a vertical axis. This allowed Poincare to
+model periodcity along multiple axes, and to place elements of the matrix into algebraic groups with
+infinitely many possible variations. Poincare extended this concept of periodic functions on a
+complex plane to complicated functions called modular forms. Goro Shimura's conjecture delt with
+the folding of a complex plane: 'If we 'fold' the complex plane as a Torus, then this surface will
+hold all the solutions to elliptic equations over the rational numbers, these in turn arising from the
+equations of Diophantus.' What proved to be important later was that if a solution to Fermat's
+equation (x^n + y^n = z^n) existed, then the solution would have to lie on that Torus."
+
+I have inserted links to all the topics mentioned within the quote, and highlighted what I feel to be
+the biggest clue as to understanding it, but we won't decipher its meaning just yet.
+
+Hopf Fibrations:
+
+It is at this point in the document that we get to the heart of the quotation by Alastair Couper that
+was mentioned earlier. A video that specifically covers this topic can be found here (click the link
+and open up video number 7 in the playlist that comes up; if it is inconvenient to do so, there is a
+text explanation here). I recommend the video however as it is very visual and makes it easy to
+understand.
+
+This video is a continuation of the topic of the previous section. Without getting too deep into the
+mathematics, it basically demonstrates that by using "sterographic projection" again, we can turn a
+4-dimensional sphere (i.e.: one made up of many intersecting "imaginary" dimensions) into a series
+of rings in 3-dimensions.
+
+To make it simple, think of the jump from a sphere in 3-D (e.g.: a ball), to a respresentation of one
+in 2-D (i.e.: a circle). This is quite similar.
+
+
+
+
+ The picture to the left is a 4-D sphere made by the two intersecting complex planes, but when we
+  only look at one at a time, it seems to make a circle like in the picture to the right. This circle is
+                                          really a ring in 3-D.
+                                       (Graphics from Dimensions)
+These rings can be rotated along an axis or linked together like a chain (without intersecting one
+another) to form a torus. This is another representation of the 4-D sphere just expressed in a
+different way.
+
+In the mathematics of topology, this shape is called a Hopf Fibration (after Heinz Hopf, the
+mathematician who discovered it). Each ring is referred to as a "fibration" because because they are
+like "fibers" that weave together to make the "fabric" of a 4-D sphere. (See diagrams below).
+
+
+
+
+           Top-view of Hopf Fibration                         Side-view of Hopf Fibration
+                                   (Graphics from The Hopf Mapping)
+
+It is interesting to note that in order for the rings of the Hopf Fibration to be non-overlaping (or
+"conformal") they becomed tapered as they near the center, with only a gradual incline in relation to
+the ring in the middle. These features reflect almost exactly the descriptions of what an "ideal
+conductor" would be like structurally within Rodin's Flux Thruster Atom Pulsar as mentioned
+earlier.
+
+As for the Hopf Fibration, have we already seen something akin to this? Indeed, we have! You
+might have noticed that The Sunflower Hologram is made out of 36 circles, in a very similar fashion
+to how the "fibrations" make up the Hopf structure:
+                   The Sunflower Hologram with one circle highlighted in purple.
+                        It is made up of 36 circles because it is One Quanta.
+
+Fractals & "Chaos" Theory:
+
+There is a beatifully simple (and quite short) introduction to these topics available here.
+
+We have only briefly touched upon the fractal nature of the toroid so far, even though the unfolding
+of the same patterns over and over on every level of scale makes it plain. With the insight provided
+by the above resources, let us see if we can uncover more patterns together.
+
+In the Alastair Couper article it is noted that: "All that is required to generate fractal behavior is two
+things: nonlinearity and iteration; which is to say take a nonlinear process and feed back some form
+of its output to its input. The numerological binary doubling sequence as used by Marko is indeed
+nonlinear and iterative, so it should be no surprise when he shows us the repeating fractal patterns
+of the Sunflower Map."
+
+We know that The Doubling Circuit is non-linear. We can see this in its cyclical motion and the fact
+that the sequence that makes it up is not sequential (i.e.: it is 1-2-4-8-7-5, not 1-2-4-5-7-8). One
+"iteration" would be equivalent to one complete pass through The Doubling Circuit. It scales in
+units of 64 (i.e.: 1 becomes 64 when you come back to that spot on The Doubling Circuit again).
+
+It continues on: "It is shown that when these sequences are laid out in a grid, and various groupings
+are made using the horizontal addition, a fractal effect occurs where the same sequence of numbers
+appears at higher and higher levels of groupings. One is immediately reminded of the various
+examples of period doubling leading to chaos that are seen in all sciences these days. These
+bifurcation maps, such as that produced by the much studied logistics equation, show a repeating
+pattern at all levels of magnification, much as does the Sunflower map."
+
+What exactly all this means is greatly clarified by the link given at the beginning of this section. To
+give a very general outline, a "bifircation map" is a graph that shows the behavior of something
+complex (i.e.: with many variables) over time. We can use this to describe things like population
+growth; it follows a particular pattern (described by a "logistics equation"). We can't predict it
+exactly because it is so complex, but we can state general trends based on what we do know.
+              This is a bifircation map. (Image is from Wikipedia, but I have added the blue text)
+
+   Again, in the case of population growth, if the rate of growth is a particular value we will get a
+  "steady state" (i.e.: a line that does not change, such as the one to the left of the diagram). If we
+   increase that growth rate, something interesting happens. It "bifircates" (or splits in two). This
+   means that the population will periodically fluctuate between two values (e.g.: being a certain
+  amount one year, a different amount the next, going back to the first, and so on). This is called a
+                      "period", and this process, a "period-doubling bifircation".
+
+ If you keep increasing it, after 8 divisions ("period 4") you get "chaos" (i.e.: an infinite number of
+       possible states). It is at this point that the system becomes completely unpredicatble...
+
+Isn't interesting that when you get to 8 (after 4 doublings) on The Doubling Circuit, it is at that point
+that the numbers become double digits and you have to "cast out nines" to get the 7 and 5 that make
+up the rest of the sequence.
+
+Is the "digital doubling" (the kind we do with the numbers) the same as the "analog doubling" (the
+kind that complex systems do, which is expressed in the "bifircation map") one and the same? Are
+we seeing order amidst the seeming "chaos" by "casting out nines"?
+
+There also is said to be a "period-halving bifircation" that shows the movement from "chaos" to
+order:
+
+
+
+
+     To the left is "period-halving bifircation", and to the right is "period-doubling bifircation".
+                                            (Image from Wikipedia)
+Another interesting property of the "bifircation map" is that it too is a fractal, containing a copy of
+itself within the complexity:
+
+
+
+
+                                        (Image from Fractal Wisdom)
+
+
+Let's relate all of this to energy...
+
+To quote the Alastair Couper article again:
+
+"So white noise is the signature of infinite information, rather than zero information. And the fractal
+road of bifurcations is a map (perhaps one of many) of the territory. It is the virtue of the fractal
+approach to ungainly systems that high orders of complexity can often be collapsed to a very simple
+model which mimics the overall characteristics, not in the sense of a linearized approximation, but
+in the manner in which noise and order (or information) are transmitted by the system."
+
+There are so many intresting things one could probably link this to, most notably the use of
+statistics in various scientific disciplines such as Thermodynamics and Quantum Physics. But lets
+keep it simple.
+
+Generally speaking, "noise" is often treated as something undesirable. This is understandable. In
+communications, these signals are damped out for sake of clarity (e.g.: when sending messages) and
+safety (e.g.: "noise" can generate standing waves in equipment that can break it if their oscillations
+produce resonance; amplitude is power).
+
+However, what if Nature controls "noise" in a very specific way to produce matter? What if all
+matter is a complex series of standing waves arising out of an omnipresent backgroud eternally
+seething with infinite energy and information (or "noise")? All things are motion. Even that
+seemingly still bit of matter has rhythms that make up its form and exists in an environment full of
+ongoing processes. Perhaps we already even have a thorough understanding of some of this within
+our sciences (e.g.: "zero point energy", "virtual particles", various "aether" models, etc.)?
+
+But more importantly, what if this infinite information is already present inside of you in some
+form, just like how a copy of the entire "bifircation map" is inside itself like a hologram?
+Before continuing on to the next section, I would like to share one more idea. It is interesting to
+note that there is a specific type of "noise" (called 1/f, "flicker", or "pink noise") that seems to occur
+in many different types of systems. There have also been applications developed that utilize "noise"
+in some sort of constructive manner. Truly it may be said that there is no "chaos" in the sense of
+disorder, even if we may not fully understand a thing's cause.
+
+Attractors:
+
+I again point to this article here as describing the topics relevant to this section.
+
+Like the "bifircation map" that was just described, there is another way to describe complex
+processes, with a figure called an "attractor". We won't go too deeply into them, concerning
+ourselves only with a particular one called a Lorenz Attractor.
+
+Stated very simply, it is a double spiral that depicts an oscillation between two states of a complex
+system (much like the first "bifircation", or split of the "bifircation map").
+
+
+
+
+                                  (Image from the website of Josep Cayuela)
+
+
+Wow, that even looks like The Doubling Circuit doesn't it? It is similar in more than just looks. One
+of its features is that the values along its curve never repeat; in a sense, the numbers of The
+Doubling Circuit do the same because they are becoming exponentially larger as you continuously
+spiral along it.
+                   Picture showing three repetitions of the The Doubling Circuit.
+
+                               First Pass: 1 – 2 – 4 – 8 – 16 – 32 – 64
+                           Second Pass: 128 – 256 – 512 – 1,024 – 2,048
+                  Third Pass: 4,096 – 8,192 – 16,384 – 32,768 – 65,536 – 131,072
+                                                 ...etc.
+
+   It also has a periodic oscillation between two states because all the numbers to the right are
+ positive and all those to the left are negative (the 9 acting as a mirror between them). Alternately,
+                     one could also think of the "flip-flop" of The Binary Triplet.
+
+There is another type of "attractor" that is related to The Doubling Circuit; it is called a Torus
+Attractor. The type of motion it describes is a movement away from the center of a torus in all
+directions, along the outside of its surface, and back into its center again repeatedly.
+
+
+
+
+                                      (Images from Fractal Wisdom)
+
+
+This is equivalent to the pumping action described before. (See diagram below).
+I wonder if perhaps it could also be described as a increase in size with every successive circulation,
+somewhat like this:
+
+
+
+
+     Cross-section view of nested tori that are increasing size. Red arrows describe circulation.
+                        With each pass you jump to the next highest torus.
+
+It is stated in The Rodin Glossary that the geometry is specifically related to a Torus Attractor, and
+these are the ways in which I think it might show up.
+
+The Penrose Twistor:
+
+There is another 4-D geometry that has the shape of a toroid called a Penrose Twistor (Roger
+Penrose being the mathematician whom formulated it, and a "twistor" being a type of mathematical
+object).
+
+It is part of a larger physics theory used to merge quantum physics and relativity. Summaries are
+given here and here; while highly mathematical summaries can be found here and here (PDF link).
+                                      Picture of Twistor geometry.
+                                       (Image from UniverseReview)
+
+
+We aren't going to go into exactly what the theory consists of (although the first link given above is
+a very good and fairly simple introduction if you are interested). We are only going to talk about a
+quote within one of the endorsement papers for Rodin's work by Tom Bearden:
+
+"In the late 70s and early 80s, Bill Tiller, Frank Golden and I worked on curl-free A-potential
+antennas, and Golden built dozens of curl-free A-field coil antenna variants. One of the most
+interesting variants he built was quite similar to Ramsay's buildup of the Rodin coil. Simply, he
+built a coil embodiment of the diagrammatic geometry for a 'twistor' that was shown by Roger
+Penrose. That coil antenna exhibited about what Ramsay and Rodin are reporting, and dramatically
+extended the communication range of a small CB radio from, say, its nominal 14 miles to about 20
+miles or more."
+
+Matrix Algebra:
+
+I believe that within one of the video presentations on this work it is said that it is directly relevant
+to several branches of mathematics, some of which include Surface Topology and Matrix Algebra.
+
+We have already applied Surface Topology to some extent by taking the grid (a plane) and wrapping
+it up into a toroid (although we did not use the name "Surface Topology" to describe this
+deformations). Alternatively, we might also think of it as folding up a plane into a sphere, making
+two twists in it (one one its north pole and the other on the south pole), and then connecting them
+inside the center of the sphere to form The Hourglass.
+
+As for how Matrix Algebra shows up within it, my guess is that it has to do with objects called
+Rings, which are a part of something called Ring Theory, funnily enough. Here is a helpful glossary
+of terms should you choose to explore this branch of mathematics.
+Avenues For Further Exploration:
+
+Some may have been struck by the fact that at several points within this document I make analogies
+between The Diamond Grain Crystal Lattice Structure and the Cartesian Coordinate System, as it
+might be stated that they are not the same. While I agree to some extent, I feel that the similarities
+they do possess make this analogy more useful than not.
+
+I encourage everyone to play with it in the same manner, and look for patterns related to every type
+of math you may already know. Whatever level your education it does not matter; our
+understanding can only grow.
+
+There are many more topics to cover and be uncovered, but alas, we conclude this document for
+now. Thank you very much for reading! And happy calculating! :D
+                               Addendum – Reorientation of Perspective
+
+I think that there are several other ways that one can look at The Mathematical Fingerprint of God.
+
+
+
+
+           Original Fingerprint of God                             Highlighting of patterns.
+
+It seems as if it is a side-view of the toroid, but from the inside of it. The rotations of the poles given
+by The Doubling Circuit (shown as little black arrows going clockwise and counterclockwise in the
+picture to the right) are backwards from what it would be if you were to look directly at the pole
+(such as in the view given by The Sunflower Hologram).
+
+Maybe we could change our perspective of it like this:
+          Your fingerprint is your identifier. It is unique to you.
+      The Creator leaves its fingerprint on ALL the things IT Creates.
+
+Once you are aware of ITS method of manifesting Reality, your potential to
+              constructively Co-Create with IT is boundless.
+
+                You are an individualized expression of IT.
+
