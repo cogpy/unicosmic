@@ -1,0 +1,375 @@
+
+
+______________________________________________________________________________________
+
+0000 : WHOLE COMPANY ~ MANAG ~ INTEGRATION (TRIADIC)
+______________________________________________________________________________________
+
+
+
+"President/MD - Managerial Level - Integration work - Whole Company"
+		
+		
+"OPERATIONS VP - Admin Level - Product Work - Hotel Complex"
+	Hotel Manager 	Commitment - 	Lease Manager 	
+	Personnel Officer	
+	Maintenance Sup.	Potential
+	Financial Super. 	
+	Local Sales Super. 	Performance - 	Local Marketing 	
+		
+"PERSONNEL VP - Admin. Level - Organization Work - Whole Company "
+	Personnel Super. 	Commitment
+	Organization Sup. 	
+	Human Devel Sup	Potential
+	Staff Benefits Sup.	
+	Human Relations	Performance - 	Personal Marketing	
+		
+"CONSTRUCTION MGR. - Exec Sup Level - Product Work - Property Development "
+		
+		
+"DESIGN MANAGER - Exec Sup Level - Design Work - Property Development "
+		
+		
+"FINANCIAL VP - Admin Level - Financial Work - Whole Company "
+	Accounting Super	Commitment - 	Accts. System Sup 	
+	Budgeting Super	Potential - 	Financial Super 	
+	Profit Distributn 	Performance - 	Fiscal Marketing 	
+		
+"SALES VP - Admin Level - Sales Work - Whole Company "
+	Sales Supervisors 	Commitment 
+	Organize/Sched 	
+	Sales Policy Super 	Potential 
+	Pricing Policy Sup. 	
+	Sales Forcasting 	Performance 
+	Sales Marketing 	
+		
+"MARKETING MGR. - Super Level - Marketing Work - Whole Company"
+		
+
+______________________________________________________________________________________
+
+5000 : OPERATIONS DEPT ~ ADMIN ~ COMMITMENT (PROCESS)
+______________________________________________________________________________________
+
+		
+"OPERATIONS VP - Administrative Level - Product Work - Hotel, Mall, Office Complex "
+		
+		
+"Hotel Manager - Spur Level - Product Work - Routine Operations "
+	Guest Service Chiefs 	
+	Food and Beverage Chiefs 	
+	Receptions/Sales Chief 	
+	Conventions Chief	
+	Entertainment Chief	
+	Maintenance Chief	
+	Purchasing/Stores Chief 	
+	Reservations/Scheduling CH. 	
+		
+"Personnel Officer - Funct Level Ch. - Organization Work - Hiring, Records tec. "
+				
+		
+		
+"LEASE MANAGER - Super Level - Product Work - Rountine Operations "
+	Tenant Service Chief	
+	Subsidiary Service Chief 	
+	Purchasing/Stores Chief 	
+	Maintenance Chief	
+	Promotions Chief 	
+	Scheduler/Records Chief 	
+		
+"FINANCIL MGR. - Super. Level - Financial Work - Accounts, Budgets etc. "
+	Accounting Chiefs	
+	Statistics/Cash flow Chief	
+	Budgeting/Costing Chief	
+	Customer Finance Chief	
+		
+		
+"Maintenance MGR. - Sup Level - Product Dev. Work - Routine Maint. "
+	Building & Décor Chief 	
+	Scheduling & Records Chief 	
+	Utilities Chief 	
+	Purchasing/Stores Chief 	
+		
+"Sales Manager - Super Level - SalesWork - Local Sales "
+	Sales/Service Chiefs	
+	Quality CTL/Training Chief	
+	Promotion/Advertizing Chief 	
+	Scheduling & Records Chief 	
+	Budgeting/Pricing Chief	
+		
+"Marketing - Sup Level Undelegated - Marketing Perception Of Operations VP"
+	Market Surveys - Temporary	
+	Test Marketing - Temporary 	
+		
+
+______________________________________________________________________________________
+
+0500 : CONSTRUCTION DEPT ~ SUPER ~ COMMITMENT (PROCESS)
+______________________________________________________________________________________
+	
+		
+"Construction MGR - Exec Super Level - Product Work - Property Development "
+		
+		
+"General Foremen - Funct Level - Product Work - Project Construction "
+	Building Const. Crews	
+	High Rise Const. Crews	
+	Utility Crews	
+	Roadway Const. Crews 	
+	Interior Décor Crews 	
+		
+Construction Scheduler 		
+		
+		
+		
+"Operating ENG - Funct Level - Product Work - Operations & Maint. "
+	Utilities Operations/Maint. 	
+	Building Maintenace 	
+	Security 	
+	Plant Records 	
+		
+"Equip & Mat. FMN - Funct Level - Product Dev. - Construction Related "
+	Equipment Mainenance Chief 	
+	Cement Plant Chief	
+	Transportation Chief 	
+	Equipment /MAT. Scheduler	
+	Purchasing/Stores Chief	
+	Frabrication Shop Chief	
+		
+Costing & Budgeting 		
+		
+"Quality Cont. FMN - Funct Level - Sales Work - Construction Related "
+	Construction Inspection 	
+	Materials Inspection 	
+	Commissioning 	
+	Customer Complaints 	
+		
+		
+Marketing - Undelegated 		
+		
+		
+"Safety Chief - Funct level - Sales Word - Safe methods, Quality "
+	Safety Inspectors 	
+	Records 	
+		
+
+______________________________________________________________________________________
+
+0200 : DESIGN DEPT ~ SUPER ~ POTENTIAL (PROCESS)
+______________________________________________________________________________________
+	
+	
+		
+"Design Manager - Exec Super. Level - Product Development Work - Property Dev. "
+		
+		
+"Drafting Chief - Funct Level - Product Work - Design Related "
+	Design Draftsmen	
+	As Built Records 	
+	Drawing Checkers 	
+	Printing, Copying, Packageing 	
+	Drawing Scheduler 	
+		
+"Design Scheduler - Funct. Level - Organization Work - A key Clerical Position"
+		
+		
+"SR. Architects - Functional Level - Products Dev. Work - Conceptual Design "
+	Junior Architects 	
+	Interior Designers	
+	Illustrations & Models	
+	Estimating & Specifications	
+	Scheduling & Records	
+		
+		
+"Budget/Purch. Chief - Funct. Level - Finance Work - Design Related "
+	Bid Invitation & Evaluation 	
+	Project Budget & Costing	
+	Project Material Purchase	
+	Scheduleing & Recording 	
+		
+"SR. Design Engineers - Funct. Level - Product Dev. Work - Engineering Design "
+	Junior Engineers	
+	Engineering Technicians 	
+	Specifications	
+	Estimating & Budgeting 	
+	Scheduling & Records	
+		
+"Engineering Inspectn - Funct. Level - Sales Work - Design Related Quality  "
+	Site Inspection & Testing 	
+	Materials Testing LAB	
+	Commissioning 	
+	New Methods 	
+		
+"Marketing - Undelegated - Marketing Work - Trade Shows, Conventions. "
+		
+
+______________________________________________________________________________________
+
+7000 : FINANCE DEPT ~ ADMIN ~ POTENTIAL (STRUCTURE)
+______________________________________________________________________________________
+
+		
+"Financial VP - Administrative Level - Financial Work - Whole Company "
+		
+		
+"Accounting Super. - Super. Level - Product Work - Financial Related "
+		
+	General Accounting Chief	
+	Receivables/Collectn Chief	
+	Accounting Payable Chief 	
+	Cashflow & Banking Chief 	
+	Statistics & Reporting Chief	
+		
+"Accts. System Sup - Super Level - Organization Work - Finance Related "
+	Computer Programmg Chief 	
+	Account Designations	
+	Accounting System Analysis	
+	Cash Flow Scheduling 	
+		
+"Budgeting Super - Super Level - Product Dev. Work - Finance Related "
+	Current Budgeting Chief 	
+	Future Budgeting Chief 	
+	Long Term Budgeting Chief 	
+	Fiscal, Reporting Chief 	
+		
+"Finance Super - Super Level - Financial Work - Finance Related "
+	Loans & Mortgages Chief 	
+	Bonds & Equities Chief 	
+	Investment BNKING & Trading 	
+	Customer Finance 	
+	Financial Scheduling 	
+		
+"Profit Distrb Super - Super Level - Sales Work - Finance Related "
+	Current Profit Analysis 	
+	Retained Earnings Analysis]	
+	Profit Projection Profiles 	
+	Profit Distribution Chief 	
+		
+"Fiscal Marketing - Sup Level Undel. - Marketing Work - Finance Related "
+	Currency Market Analysis 	
+	Investment Market Analysis 	
+	Short Term Summaries 	
+	Long Term Reports 	
+		
+______________________________________________________________________________________
+
+8000 : SALES DEPT ~ ADMIN ~ PERFORMANCE (PROCESS)
+______________________________________________________________________________________
+	
+		
+"Sales VP - Administrative Level - Sales Work - Whole Company "
+		
+		
+"Property Sales MGR - Super. Level - Product Work - Local Region Sales "
+	Domestic & Ind. Sales Chiefs	
+	Service Chief 	
+	Package Promotions Chief 	
+	Scheduleing & Records 	
+	Costing & Budgeting 	
+		
+"Sales Scheduler - Funct. Level - Organization Work - A Key Clerical Position"
+		
+		
+"Internat Sales MGR. - Super Level - Product Work - International Sales "
+	International Sales Chief 	
+	International Service Chief 	
+	Package Promotions Chief 	
+	Scheduling & Records 	
+	Costing & Budgeting Chief 	
+		
+"Sales Policy MGR. - Super Level - Product Development Work - Sales Related "
+	Policy Intro & Training Chief 	
+	Policy Formulation Chief 	
+	Package Development Chief 	
+	Advertising Chief 	
+		
+"Pricing Policy MGR. - Super. Level - Financial Work - Sales Related "
+	Pricing STDS & Guidelines 	
+	Pricing Formulation Chief	
+	Budgeting & Costing Chief 	
+	Cashflow Policy Chief 	
+		
+"Sales Forecasting - Super Level - Sales Work - Projected Sales "
+	Pricing STDS & Guidelines 	
+	Pricing Formulation Chief 	
+	Budgeting & Costing Chief 	
+	Cash Flow Policy Chief	
+		
+"Marketing - Super Level Undelegated - Marketing Work - Assessing Market Sales "
+	Market Surveys	
+	Test Marketing 	
+	Determining Trends	
+	Contingent Developments 	
+		
+
+______________________________________________________________________________________
+
+1000 : MARKETING DEPT ~ ADMIN ~ PERFORMANCE (STRUCTURE)
+______________________________________________________________________________________
+	
+		
+"President - Managerial Level - Marketing Work - Whole Company "
+		
+		
+"Marketing VP - Administrative Level - Undelegated "
+		
+		
+"Marketing MGR - Super Level - Product Work - Assessing Market Needs "
+	Market Surveys	
+	Statistical Analysis	
+	Conceptual Studies	
+	Costing & Budgeting 	
+	Recommendation Reports 	
+	Test Marketing 	
+		
+"Acquisition MGR - Super Level - Product Work - Property Acquisition "
+	Market Survey Review 	
+	Property Appraisal 	
+	Conceptual Studies Review 	
+	Costing & Budgeting	
+	Recommendation Reports 	
+	Property Acquisition 	
+		
+
+______________________________________________________________________________________
+
+4000 : PERSONNEL DEPT ~ ADMIN ~ COMMITMENT (STRUCTURE)
+______________________________________________________________________________________
+	
+		
+"Personnel VP - Administrative Level - Organization Work - Whole Company "
+		
+		
+"Personnel Super - Super Level - Product Work - Personnel Related "
+	Screening & Hiring Chief 	
+	Industrial Relations Chief 	
+	Employee Evaluation Chief 	
+	Employee Records 	
+	Scheduling 	
+		
+"Organization Super - Super Level - Organization Work - Company Structure "
+	Job Description Chief 	
+	Organization Analysis Chief 	
+	Organization Training 	
+		
+"Human Dev. Super. - Super. Level - Product Dev. Work - Personnel Related "
+	Training Program Chief 	
+	Education Programs Chief 	
+	Seminars & Workshops Chief 	
+		
+"Staff Relationships Sup. - Sup. Level - Sales Work - Socially Related "
+	Salaries Evalution Chief	
+	Pay Scales Analysis Chief 	
+	Profit Distribution Chief 	
+		
+"Human Benefits Super - Sup. Level - Sales Work - Socially Related "
+	Employee Housing Chief 	
+	Employee Programs Chief 	
+	Public Programs Chief 	
+	Professional Programs Chief 	
+		
+"Marketing - Super Level Undelegated - Marketing Work - Assessing pers. Market"
+	Personnel Market Surveys	
+	Determining Trends & Needs	
+	Conferences
+

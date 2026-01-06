@@ -1,0 +1,161 @@
+Based on the document "Enlightened Management" by Robert Campbell, the organizational chart for the whole company is structured around six primary domains of activity, each relating to the company's three key dimensions: Commitment, Potential, and Performance. The company’s structure emphasizes a balance between these dimensions rather than a hierarchical relationship. Here’s a summary of the organizational chart as described:
+
+President/MD (Managerial Level)
+Role: Integration work for the whole company
+Operations VP (Administrative Level)
+Main Focus: Product Work - Hotel Complex
+Hotel Manager (Supervisory Level):
+Guest Service Chiefs
+Food and Beverage Chiefs
+Reception/Sales Chief
+Conventions Chief
+Entertainment Chief
+Maintenance Chief
+Purchasing/Stores Chief
+Reservations/Scheduling Chief
+Lease Manager (Supervisory Level):
+Tenant Service Chief
+Subsidiary Service Chief
+Promotions Chief
+Scheduler/Records Chief
+Personnel Officer (Functional Level): Organization work, hiring, records, etc.
+Financial Manager (Supervisory Level):
+Accounting Chiefs
+Statistics/Cash Flow Chief
+Budgeting/Costing Chiefs
+Customer Finance Chief
+Sales Manager (Supervisory Level):
+Sales/Service Chiefs
+Quality Control/Training Chiefs
+Promotion/Advertising Chief
+Scheduling & Records Chief
+Budgeting/Pricing Chiefs
+Marketing (Supervisory Level): Marketing work (undelegated)
+Personnel VP (Administrative Level)
+Main Focus: Organization work for the whole company
+Personnel Supervisor: Commitment
+Organization Supervisor
+Human Development Supervisor: Potential
+Staff Benefits Supervisor
+Human Relations: Performance
+Personnel Marketing
+Construction Manager (Executive Supervisory Level)
+Main Focus: Product Work - Property Development
+Design Manager (Executive Supervisory Level)
+Main Focus: Design Work - Property Development
+Financial VP (Administrative Level)
+Main Focus: Financial work for the whole company
+Accounting Supervisor: Commitment
+Accounts System Supervisor
+Budgeting Supervisor: Potential
+Finance Supervisor
+Profit Distribution: Performance
+Fiscal Marketing
+Sales VP (Administrative Level)
+Main Focus: Sales work for the whole company
+Sales Supervisors: Commitment
+Organize/Schedule
+Sales Policy Supervisor: Potential
+Pricing Policy Supervisor
+Sales Forecasting: Performance
+Sales Marketing
+Marketing Manager (Supervisory Level)
+Main Focus: Marketing work for the whole company
+This structure is designed to ensure each department maintains a balanced focus on commitment, potential, and performance, facilitating a holistic approach to management and operations​ .
+
+The organizational chart for the whole company according to Robert Campbell, as outlined in his works, follows a structured hierarchy with various departments and their respective functions. Here is an overview of the key elements:
+
+President/Managing Director (MD)
+
+Integration work for the whole company.
+Operations Vice President (VP)
+
+Administrative Level: Product work related to hotel, mall, and office complex operations.
+Supervised by the Hotel Manager, Lease Manager, and various other functional chiefs.
+Personnel Vice President (VP)
+
+Administrative Level: Organizational work for the entire company.
+Oversees personnel, organization, human development, staff benefits, and human relations.
+Construction Manager
+
+Executive Supervisory Level: Product work related to property development.
+Design Manager
+
+Executive Supervisory Level: Design work related to property development.
+Financial Vice President (VP)
+
+Administrative Level: Financial work for the whole company.
+Supervises accounting, budgeting, financial analysis, and fiscal marketing.
+Sales Vice President (VP)
+
+Administrative Level: Sales work for the entire company.
+Manages sales supervisors, sales policy, pricing policy, and sales forecasting.
+Marketing Manager
+
+Supervisory Level: Marketing work for the whole company.
+Each department is broken down into further sub-departments, focusing on specific activities and responsibilities, ensuring that all functions necessary for the company's operation are covered. The detailed structure also includes various supervisory and functional levels to manage day-to-day operations and long-term strategic goals.
+
+For example, within the Operations Department, the hierarchy includes roles from the Operations VP to functional chiefs like the Hotel Manager, Maintenance Chief, and Financial Manager. Similarly, the Sales Department encompasses roles from the Sales VP to supervisory and functional levels managing local and international sales, sales policy, pricing, and marketing assessments.
+
+This structure allows for clear delineation of responsibilities, ensuring that each function is managed effectively and contributes to the company's overall objectives.
+
+For further details, you can refer to specific charts in Robert Campbell's "Enlightened Management," particularly:
+
+Chart 1: The Three Company Dimensions .
+Chart 2: The Operations Department .
+Chart 3: The Construction Department .
+Chart 6: The Sales Department .
+Can you explain the company's triadic structure?
+The company's triadic structure, as outlined by Robert Campbell, is a conceptual framework that organizes the company’s activities into three polar pairs, each providing insight into one of the three dimensions of management. These pairs and dimensions ensure a balanced approach to managing different aspects of the company. Here’s an explanation:
+
+The Three Dimensions and Their Polar Pairs
+Commitment Dimension
+
+Organization: This activity is paired with Production.
+Organization work involves structuring the company, managing personnel, and ensuring effective organizational processes.
+Production work involves the actual creation of goods and services, managed by the Operations Department.
+Insight: This pair ensures that organizational efficiency is aligned with production capabilities, highlighting the need for commitment from both administrative and operational perspectives.
+Potential Dimension
+
+Finance: This activity is paired with Development.
+Finance work involves managing the company’s financial health, including accounting, budgeting, and financial planning.
+Development work involves long-term strategic initiatives, such as property development and innovation.
+Insight: This pair ensures that financial resources are effectively allocated to support development projects, highlighting the company’s potential for growth and innovation.
+Performance Dimension
+
+Sales: This activity is paired with Marketing.
+Sales work involves activities related to selling products and services, developing sales strategies, and managing customer relationships.
+Marketing work involves market research, developing marketing strategies, and aligning them with the company’s overall objectives.
+Insight: This pair ensures that sales efforts are aligned with marketing strategies, emphasizing the need for high performance in reaching and engaging customers.
+Balancing the Three Dimensions
+The triadic structure is not hierarchical; rather, it emphasizes a balanced relationship among the three dimensions. Each dimension relates to and influences the other two, ensuring that the company's activities are harmonized and support overall strategic goals. The goal is to achieve mutual balance across all dimensions without prioritizing one over the others.
+
+Application in Company Structure
+In practice, this triadic structure translates into specific roles and responsibilities within the company. Here’s how it applies to different departments:
+
+Operations Department (Commitment)
+
+Oversees product work in hotel, mall, and office complexes.
+Managed by the Operations VP, with various functional chiefs such as Hotel Manager and Maintenance Chief.
+Personnel Department (Commitment)
+
+Manages organization work, including hiring, training, and employee relations.
+Overseen by the Personnel VP.
+Finance Department (Potential)
+
+Manages financial work, including accounting and budgeting.
+Led by the Financial VP, with roles like Accounting Supervisor and Budgeting Supervisor.
+Development Department (Potential)
+
+Oversees development projects and strategic initiatives.
+Managed by the Development VP.
+Sales Department (Performance)
+
+Manages sales work, developing sales strategies and overseeing local and international sales.
+Led by the Sales VP.
+Marketing Department (Performance)
+
+Handles high-level strategic marketing tasks, market assessments, and strategy development.
+Managed by the Marketing Manager.
+Summary
+The triadic structure of commitment, potential, and performance ensures that the company’s operations, financial health, and market strategies are aligned and balanced. By organizing activities into these three dimensions, the company can maintain a holistic approach to management, fostering growth, efficiency, and effectiveness across all areas. This structure helps in achieving organizational goals while ensuring that each department contributes to the overall success of the company.
